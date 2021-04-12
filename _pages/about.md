@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Professor of Geographical Analysis in the [Centre for Urban and Regional Development Studies (CURDS)] (https://www.ncl.ac.uk/curds/) and the School of Geography, Politics and Sociology at Newcastle University. I am also one of four chairs appointed to expand our international, cross-disciplinary reputation in Spatial Analytics and Modeling (SAM@Newcastle) and, as of Fall 2018, a Fellow of the Alan Turing Institute.
+I am Professor of Geographical Analysis in the [Centre for Urban and Regional Development Studies (CURDS)](https://www.ncl.ac.uk/curds/) and the School of Geography, Politics and Sociology at Newcastle University. I am also one of four chairs appointed to expand our international, cross-disciplinary reputation in Spatial Analytics and Modeling (SAM@Newcastle) and, as of Fall 2018, a Fellow of the Alan Turing Institute.
  
 My primary research focus is in spatial demography and the interplay between spatial analytics and demographic change, in particular quantifying patterns, sources and impacts of spatial inequality. Current projects, for example, study the role of spatial scale and context in understanding the manifestation and impacts of depopulation across neighborhoods, cities, and regions in the United States. I also maintain an ongoing interest in pedagogy, especially the teaching of methods. I have taught spatial analysis, GIS, and quantitative methods for well over a decade, with a pedagogic orientation towards policy applications and the social sciences and humanities. I am co-author of a recent textbook aimed at teaching GIS for the social sciences.
  
