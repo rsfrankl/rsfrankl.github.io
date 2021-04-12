@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+
 PhD **Geography**, University of Arizona, 2004 (minor: Spatial Analysis and Remote Sensing)
 
 MA **West European Studies**, Indiana University, 1996
@@ -22,22 +23,22 @@ Degré d’Etudes Françaises, Université de Strasbourg, France, 1993
 Appointments
 ======
 **Newcastle University**  
->>**Professor of Geographical Analysis**, Centre for Urban and Regional Development Studies (CURDS), School of Geography, Politics and Sociology, 2018–present
+- **Professor of Geographical Analysis**, Centre for Urban and Regional Development Studies (CURDS), School of Geography, Politics and Sociology, 2018–present
 
 **Brown University**  
->>**Associate Director**, Spatial Structures in the Social Sciences (S4), 2010–2018  
-    **Associate Professor (Research)**, Population Studies, 2015–2018  
-    **Assistant Professor (Research)**, Population Studies, 2010–2015  
+- **Associate Director**, Spatial Structures in the Social Sciences (S4), 2010–2018  
+- **Associate Professor (Research)**, Population Studies, 2015–2018  
+- **Assistant Professor (Research)**, Population Studies, 2010–2015  
 
 **University of Maryland**  
->>**Senior Lecturer**, School of Public Policy and Faculty Associate, Maryland Population Research Center, 2009–2010  
-**Adjunct Lecturer**, School of Public Policy, 2004–2009
+- **Senior Lecturer**, School of Public Policy and Faculty Associate, Maryland Population Research Center, 2009–2010  
+- **Adjunct Lecturer**, School of Public Policy, 2004–2009
 
 **American Association of Geographers (AAG)**  
->>**Deputy Director**, 2007–2009
+- **Deputy Director**, 2007–2009
 
 **U.S. Census Bureau**  
->>**Statistician Demographer**, Population Distribution Branch, Population Division, 2002–2004
+- **Statistician Demographer**, Population Distribution Branch, Population Division, 2002–2004
 
 Visiting Academic Appointments
 ======
