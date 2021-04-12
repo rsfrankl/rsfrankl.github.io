@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RSFRANKL"
+title                    : "rsfrankl"
 name                     : &name "Rachel Franklin"
 description              : &description "Newcastle University"
 url                      : https://rsfrankl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Rachel Franklin"
   avatar           : "profile.png"
-  bio              : "Geographer"
-  location         : "Newcastle upon Tyne"
+  bio              : "Professor of Geographical Analysis"
+  location         : "Newcastle upon Tyne, United Kingdom"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=rachel+s+franklin"
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=5D_ebBIAAAAJ"
@@ -174,7 +174,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -210,10 +210,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true
