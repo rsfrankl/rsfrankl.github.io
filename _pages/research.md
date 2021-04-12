@@ -13,7 +13,7 @@ Recent and ongoing projects address population loss or shrinkage at the local an
  
 A third area of ongoing research has been the evolving observed spatial variation in the population composition of the United States, especially in terms of ethnic/racial diversity and age structure.
 
-### Currently-Funded Projects
+## Currently-Funded Projects
 
 “Beyond 'Left Behind Places': Understanding Demographic and Socioeconomic Change in Peripheral Regions,” U.K. Economic and Social Research Council (ESRC), January 1, 2021–December 31, 2023 (Co-I; £563,618)
 
