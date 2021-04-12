@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-PhD Geography, University of Arizona, 2004 (minor: Spatial Analysis and Remote Sensing)
+PhD **Geography**, University of Arizona, 2004 (minor: Spatial Analysis and Remote Sensing)
 
-MA West European Studies, Indiana University, 1996
+MA **West European Studies**, Indiana University, 1996
 
-BA French and Political Science (minors in Italian and Spanish), Indiana University, 1994, With Distinction, *Phi Beta Kappa*
+BA **French and Political Science** (minors in Italian and Spanish), Indiana University, 1994, With Distinction, *Phi Beta Kappa*
 
 Degré d’Etudes Françaises, Université de Strasbourg, France, 1993
 
