@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+Recent (full) CV available here for download.
 
 Education
 ======
