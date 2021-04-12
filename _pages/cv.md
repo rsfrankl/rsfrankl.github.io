@@ -11,30 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+PhD Geography, University of Arizona, 2004 (minor: Spatial Analysis and Remote Sensing)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+MA West European Studies, Indiana University, 1996
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+BA French and Political Science (minors in Italian and Spanish), Indiana University, 1994, With Distinction, *Phi Beta Kappa*
+
+Degré d’Etudes Françaises, Université de Strasbourg, France, 1993
+
+Appointments
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Newcastle University**
+  **Professor of Geographical Analysis**, Centre for Urban and Regional Development Studies (CURDS), School of Geography, Politics and Sociology, 2018–present
+
+**Brown University**
+	**Associate Director**, Spatial Structures in the Social Sciences (S4), 2010–2018
+	**Associate Professor (Research)**, Population Studies, 2015–2018
+	**Assistant Professor (Research)**, Population Studies, 2010–2015 
+
+**University of Maryland**
+	**Senior Lecturer**, School of Public Policy and Faculty Associate, Maryland Population Research Center, 2009–2010
+	**Adjunct Lecturer**, School of Public Policy, 2004–2009
+
+**American Association of Geographers (AAG)**
+	**Deputy Director**, 2007–2009
+
+**U.S. Census Bureau**
+	**Statistician Demographer**, Population Distribution Branch, Population Division, 2002–2004
+
+Visiting Academic Appointments
+======
+**Visiting Scholar**, Population Studies, Brown University, 2018–present
+**Visiting Professor**, Gran Sasso Science Institute (GSSI), Italy, 2018–present
+**Visiting Professor**, University of Sassari, Sardinia, Italy, November 2019
+
+Fellowships and Awards
+======
+Fellow, Western Regional Science Association (WRSA), 2020–present 
+Fellow, Alan Turing Institute, 2018–present 
+David E. Boyce Award for Distinguished Service to the Field of Regional Science, 2015
+AAG Population Specialty Group Student Paper Award, 2003
+Benjamin H. Stevens Graduate Fellowship in Regional Science, 2001–2002
+AAG European Specialty Group Graduate Student Paper Award, 2001
+Lander MacClintock Award for Excellence in Italian Studies, 1994 
+Phi Beta Kappa, Gamma of Indiana, elected 1994
 
 Publications
 ======
@@ -56,4 +76,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
