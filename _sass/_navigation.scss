@@ -231,7 +231,7 @@
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 4px;
+        height: 2px; // height of bar in masthead navigation
         background: mix(#fff, $primary-color, 50%);
         width: 100%;
         -webkit-transition: $global-transition;
