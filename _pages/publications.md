@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -51,22 +51,6 @@ Franklin, Rachel S. (2013). “The Roles of Population, Place, and Institution i
 
 Franklin, Rachel S. and Jim Ketchum. (2013). “Working in a Landscape of Recession and Expansion: Academic ‘Jobs in Geography’ in the United States, 1990–2011,” The Professional Geographer, doi.org/10.1080/00330124.2012.660455, 65: 205–220.
 
-Franklin, Rachel S. (2012). “Benchmarking Student Diversity at Public Universities in the United States: Accounting for State Population Composition,” The Annals of Regional Science, doi.org/10.1007/s00168-011-0454-4, 49: 355–372.
-
-Franklin, Rachel S., David A. Plane, and Warren Gill. (2012). “Documenting Regional Science Exceptionalism: What's Special About WRSA?” The Annals of Regional Science, doi.org/10.1007/s00168-011-0477-x, 48: 391–403. 
-
-Franklin, Rachel S. and Matthias Ruth. (2012). “Growing Up and Cleaning Up: The Environmental Kuznets Curve Redux,” Journal of Applied Geography, doi.org/10.1016/j.apgeog.2010.10.014, 32: 29–39.
-
-Ruth, Matthias, Eugenia Kalnay, Ning Zeng, Rachel S. Franklin, Jorge Rivas, and Fernando Miralles-Wilhelm. (2011). “Sustainable Prosperity and Societal Transitions: The Science of Long-term Modeling and the Need for Anticipatory Management,” Environmental Innovation and Societal Transitions (EIST), doi.org/10.1016/j.eist.2011.03.004, 1: 160–165.
-
-Franklin, Rachel S. and David A. Plane. (2006). “Pandora’s Box: The Potential and Peril of Migration Data from the American Community Survey,” International Regional Science Review, doi.org/10.1177/0160017606289895, 29: 231–246.
-
-Franklin, Rachel and David A. Plane. (2004). “A Shift-Share Method for the Analysis of Regional Fertility Change: An Application to the Decline in Childbearing in Italy, 1952–1991,” Geographical Analysis, doi.org/10.1111/j.1538-4632.2004.tb01120.x, 36: 1–20.
-
-Waldorf, Brigitte and Rachel Franklin. (2002). “Spatial Dimensions of the Easterlin Hypothesis: Fertility Variations in Italy,” Journal of Regional Science, doi.org/10.1111/1467-9787.00272, 42: 549–578.
-
-Mulligan, Gordon, Rachel Franklin, and Adrian Esparza. (2002). “Housing Prices in Tucson, Arizona,” Urban Geography, doi.org/10.2747/0272-3638.23.5.446, 23: 446–470.
-
 ## Book Chapters, Blog Contributions, and Other Publications  
 Franklin, Rachel S. (2021). “Introduction to the Fiftieth Anniversary Special Issue: Happy Birthday, Geographical Analysis!,” Geographical Analysis.
 
@@ -85,20 +69,6 @@ Franklin, Rachel S. and David A. Plane. (2017). “The View from Over the Hill: 
 Franklin, Rachel S. (2017). “Words of congratulation from one side of the Pacific Rim to the other,” Asia-Pacific Journal of Regional Science, doi:10.1007/s41685-017-0025-5.
 
 Faggian, Alessandra, Jonathan Corcoran, and Rachel S. Franklin. (2017). “Human capital migration and salaries: an examination of US college graduates,” Graduate Migration and Regional Development: An International Perspective, Jonathan Corcoran and Alessandra Faggian, eds., Edward Elgar, doi.org/10.4337/9781784712167.00014.
-
-Franklin, Rachel S. (2014). “The Landscape of Population Decline in the United States: Considering the roles of the demographic components of change and geography,” Shrinking Cities: A Global Perspective, Richardson, Harry W. and Chang Woon Nam, eds., 74–85, Routledge.
-
-Franklin, Rachel S. (2013). “Population Geography,” Oxford Bibliographies in Geography. Available at: http://www.oxfordbibliographies.com/obo/page/geography#4.
-
-Franklin, Rachel S. (2012). “Demographic Dimensions: Describing Populations” in 21st Century Geography: A Reference Handbook, Sage Publications. 
-
-Schachter, Jason P., Rachel S. Franklin, and Marc J. Perry. (2003). “Migration and Geographic Mobility in Metropolitan and Nonmetropolitan America: 1995 to 2000,” U.S. Census Bureau, Census 2000 Special Reports, CENSR-9 (available as PDF download at: http://www.census.gov/population/www/cen2000/migration.html).
-
-Franklin, Rachel S. (2003). “Migration of the Young, Single, and College Educated: 1995 to 2000,” U.S. Census Bureau, Census 2000 Special Reports, CENSR-12 (available as PDF download at: http://www.census.gov/population/www/cen2000/migration.html).
-
-Franklin, Rachel S. (2003). “Domestic Migration Across Regions, Divisions, and States: 1995 to 2000,” U.S. Census Bureau, Census 2000 Special Reports, CENSR-7 (available as PDF download at: http://www.census.gov/population/www/cen2000/migration.html).
-
-Contributor, “Arizona-Sonora Region: Indicators of Economic Progress,” prepared by the Office of Economic Development at the University of Arizona, December 2000.
 
 ## Book Reviews  
 Franklin, Rachel S. (2016). Book review of “Running the Numbers: A Practical Guide to Regional Economic and Social Analysis,” by John Quinterno. M.E. Sharpe, 2014, Journal of Planning Education and Research (JPER).
