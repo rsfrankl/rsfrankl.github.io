@@ -72,6 +72,3 @@ Faggian, Alessandra, Jonathan Corcoran, and Rachel S. Franklin. (2017). “Human
 
 ## Book Reviews  
 Franklin, Rachel S. (2016). Book review of “Running the Numbers: A Practical Guide to Regional Economic and Social Analysis,” by John Quinterno. M.E. Sharpe, 2014, Journal of Planning Education and Research (JPER).
-
-Franklin, Rachel S. (2000). Book review of “Systems of Housing Supply and Housing Production in Europe,” by Andrew Golland. Papers in Regional Science, 79, 343–345.
-
