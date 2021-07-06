@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Conference Keynotes  
+"Of Decisions and Deserts: Helping Cities Be Smart, Just, and Good,” Keynote Address, 24th Association of Geographic Information Laboratories in Europe (AGILE) Conference, June 11, 2021.
+
 “Migration, Population Loss, and the Smaller Picture,” Keynote Address, International and Internal Migration: Challenges and Opportunities in Europe Workshop, Gran Sasso Science Institute (GSSI), L’Aquila, Italy, January 17, 2020.
 
 “Inequality and the Smart City,” Keynote Address, GeoComputation 2019, Queenstown, New Zealand, September 20, 2019.
@@ -15,6 +17,12 @@ author_profile: true
 “Loss and Space: Scale, Measurement, and the Implications of Unequal Population Change,” Keynote Address, 40th Annual Conference of the Australia New Zealand Regional Science Association International (ANZRSAI), Melbourne, Australia, December 5, 2016.
 
 ## Recent Invited Presentations  
+“Patterns of Demographic Change,” Symposium on Legacy Cities and Left-Behind Places: Comparative Analysis, Policy and Practice, organized by Lincoln Institute for Land Policy and the Bartlett School of Planning at UCL, June 17, 2021 (virtual)
+
+“Sensor Placement, Inequality, and Informed Decision Making in the Smart City,” GIScience Center, Department of Geography, University of Zurich, May 25, 2021 (virtual)
+
+“The Spatial Demography of Depopulation,” Geography, Queen’s University Belfast, May 20, 2021 (virtual)
+
 “Spatial (Data) is Special: Creating Space in Social Science and Humanities Research,” Demystifying Data Workshop, Institute of Social Science, Newcastle University, March 25, 2021 (virtual)
 
 “The Spatial Demography of Depopulation: The U.S. Example,” School of Geography, Geology and the Environment, University of Leicester, January 13, 2021 (virtual)
