@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Recent (full) CV available [here](/files/CV_Franklin_June21.pdf) for download.
+Recent (full) CV available [here](/files/CV_Franklin_Sept21.pdf) for download.
 
 Education
 ======
