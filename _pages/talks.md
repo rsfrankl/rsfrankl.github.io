@@ -17,6 +17,8 @@ author_profile: true
 “Loss and Space: Scale, Measurement, and the Implications of Unequal Population Change,” Keynote Address, 40th Annual Conference of the Australia New Zealand Regional Science Association International (ANZRSAI), Melbourne, Australia, December 5, 2016.
 
 ## Recent Invited Presentations  
+"Who Counts in the Smart City?,” Citizens Collective, TU Delft, September 15, 2021 (virtual)
+
 “Patterns of Demographic Change,” Symposium on Legacy Cities and Left-Behind Places: Comparative Analysis, Policy and Practice, organized by Lincoln Institute for Land Policy and the Bartlett School of Planning at UCL, June 17, 2021 (virtual)
 
 “Sensor Placement, Inequality, and Informed Decision Making in the Smart City,” GIScience Center, Department of Geography, University of Zurich, May 25, 2021 (virtual)
