@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Recent (full) CV available [here](/files/CV_Franklin_Sept21.pdf) for download.
+Recent (full) CV available [here](/files/CV_Franklin_Current.pdf) for download.
 
 Education
 ======
@@ -24,6 +24,10 @@ Degré d’Etudes Françaises, Université de Strasbourg, France, 1993
 
 Appointments
 ======
+
+### **The Alan Turing Institute**  
+- **University Lead – Newcastle**, 2021–present
+
 ### **Newcastle University**  
 - **Professor of Geographical Analysis**, Centre for Urban and Regional Development Studies (CURDS), School of Geography, Politics and Sociology, 2018–present
 
