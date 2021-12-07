@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## Conference Keynotes  
-"Of Decisions and Deserts: Helping Cities Be Smart, Just, and Good,” Keynote Address, 24th Association of Geographic Information Laboratories in Europe (AGILE) Conference, June 11, 2021.
+“Sensing Inequality: Smart Cities, Sensor Deserts, and Equitable Decision-Making,” Keynote Address, The 2021 European Colloquium on Theoretical and Quantitative Geography (ECTQG), Manchester, November 5, 2021. (virtual)
+
+"Of Decisions and Deserts: Helping Cities Be Smart, Just, and Good,” Keynote Address, 24th Association of Geographic Information Laboratories in Europe (AGILE) Conference, June 11, 2021. (virtual)
 
 “Migration, Population Loss, and the Smaller Picture,” Keynote Address, International and Internal Migration: Challenges and Opportunities in Europe Workshop, Gran Sasso Science Institute (GSSI), L’Aquila, Italy, January 17, 2020.
 
@@ -17,6 +19,8 @@ author_profile: true
 “Loss and Space: Scale, Measurement, and the Implications of Unequal Population Change,” Keynote Address, 40th Annual Conference of the Australia New Zealand Regional Science Association International (ANZRSAI), Melbourne, Australia, December 5, 2016.
 
 ## Recent Invited Presentations  
+“Spatial Inequality and the Smart City,” Turing Fellows Project Seminar Series: Urban Analytics, October 7, 2021 (virtual)
+
 "Who Counts in the Smart City?,” Citizens Collective, TU Delft, September 15, 2021 (virtual)
 
 “Patterns of Demographic Change,” Symposium on Legacy Cities and Left-Behind Places: Comparative Analysis, Policy and Practice, organized by Lincoln Institute for Land Policy and the Bartlett School of Planning at UCL, June 17, 2021 (virtual)
