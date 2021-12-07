@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Books  
-Rey, Sergio and Rachel S. Franklin, editors. (expected 2021). Handbook of Spatial Analysis in the Social Sciences, Elgar.
+Rey, Sergio and Rachel S. Franklin, editors. (in press). Handbook of Spatial Analysis in the Social Sciences, Elgar.
 
 Franklin, Rachel S., editor. (2019). Population, Place, and Spatial Interaction: Essays in Honor of David Plane. Springer.
 
@@ -15,7 +15,9 @@ Franklin, Rachel S., Eveline S. van Leeuwen, and Antonio Paez, editors. (2018). 
 Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). GIS and the Social Sciences: Theory and Applications. London: Routledge.
 
 ## Peer-Reviewed Articles  
-Robinson, Caitlin and Rachel S. Franklin. (2020). “The sensor desert quandary: What does it mean (not) to count in the smart city?,” Transactions of the Institute of British Geographers, https://doi.org/10.1111/tran.12415.
+Franklin, Rachel S. (in press). "Quantitative methods I: Reckoning with uncertainty,” Progress in Human Geography
+
+Robinson, Caitlin and Rachel S. Franklin. (2021). “The sensor desert quandary: What does it mean (not) to count in the smart city?,” Transactions of the Institute of British Geographers, https://doi.org/10.1111/tran.12415.
 
 Franklin, Rachel S., Victoria Houlden, Caitlin Robinson, Daniel Arribas-Bel, Elizabeth C. Delmelle, Urška Demšar, Harvey J. Miller, and David O’Sullivan. (2020). “Who Counts? Gender, Gatekeeping, and Quantitative Human Geography,” The Professional Geographer, https://doi.org/10.1080/00330124.2020.1828944.
 
