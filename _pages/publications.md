@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 ## Books  
-Rey, Sergio and Rachel S. Franklin, editors. (in press). Handbook of Spatial Analysis in the Social Sciences, Elgar.
+Rey, Sergio and Rachel S. Franklin, editors. (in press). *Handbook of Spatial Analysis in the Social Sciences*, Elgar.
 
-Franklin, Rachel S., editor. (2019). Population, Place, and Spatial Interaction: Essays in Honor of David Plane. Springer.
+Franklin, Rachel S., editor. (2019). *Population, Place, and Spatial Interaction: Essays in Honor of David Plane*. Springer.
 
-Franklin, Rachel S., Eveline S. van Leeuwen, and Antonio Paez, editors. (2018). Population Loss: The Role of Transportation and Other Issues. Elsevier.
+Franklin, Rachel S., Eveline S. van Leeuwen, and Antonio Paez, editors. (2018). *Population Loss: The Role of Transportation and Other Issues*. Elsevier.
 
-Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). GIS and the Social Sciences: Theory and Applications. London: Routledge.
+Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). *GIS and the Social Sciences: Theory and Applications*. London: Routledge.
 
 ## Peer-Reviewed Articles  
 Robinson, Caitlin, Rachel S. Franklin, and Jack Roberts. (Accepted for publication). “Optimising for equity: Sensor coverage, networks and the responsive city,” *The Annals of the American Association of Geographers*.
