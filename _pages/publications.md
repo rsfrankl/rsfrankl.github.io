@@ -21,7 +21,7 @@ Wu, Yu-Tzu, Andrew Kingston, Victoria Houlden, and Rachel Franklin. (2022). “[
 
 Franklin, Rachel S., Elizabeth C. Delmelle, Clio Andris, Tao Cheng, Somayeh Dodge, Janet Franklin, Alison Heppenstall, Mei-Po Kwan, WenWen Li, Sara McLafferty, Jennifer A. Miller, Darla K. Munroe, Trisalyn Nelson, Özge Öner, Denise Pumain, Kathleen Stewart, Daoqin Tong, Elizabeth A. Wentz. (2022). “[Making Space in Geographical Analysis](https://doi.org/10.1111/gean.12325)," *Geographical Analysis*.
 
-Franklin, Rachel S. (2022). "[Quantitative methods I: Reckoning with uncertainty](https://doi.org/10.1177/03091325211063635)," *Progress in Human Geography*
+Franklin, Rachel. (2022). "[Quantitative methods I: Reckoning with uncertainty](https://doi.org/10.1177/03091325211063635)," *Progress in Human Geography*
 
 Robinson, Caitlin and Rachel S. Franklin. (2021). “[The sensor desert quandary: What does it mean (not) to count in the smart city?](https://doi.org/10.1111/tran.12415),” *Transactions of the Institute of British Geographers*, 46(2), 238-254.
 
