@@ -15,49 +15,49 @@ Franklin, Rachel S., Eveline S. van Leeuwen, and Antonio Paez, editors. (2018). 
 Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). GIS and the Social Sciences: Theory and Applications. London: Routledge.
 
 ## Peer-Reviewed Articles  
-Robinson, Caitlin, Rachel S. Franklin, and Jack Roberts. (Accepted). “Optimising for equity: Sensor coverage, networks and the responsive city,” The Annals of the American Association of Geographers 
+Robinson, Caitlin, Rachel S. Franklin, and Jack Roberts. (Accepted). “Optimising for equity: Sensor coverage, networks and the responsive city,” The Annals of the American Association of Geographers.
 
-Wu, Yu-Tzu, Andrew Kingston, Victoria Houlden, and Rachel Franklin. (2022). [“The longitudinal associations between proximity to local grocery shops and functional ability in the very old living with and without multimorbidity: results from the Newcastle 85+ study,”](https://doi.org/10.1016/j.archger.2022.104703) Archives of Gerontology and Geriatrics
+Wu, Yu-Tzu, Andrew Kingston, Victoria Houlden, and Rachel Franklin. (2022). “[The longitudinal associations between proximity to local grocery shops and functional ability in the very old living with and without multimorbidity: results from the Newcastle 85+ study](https://doi.org/10.1016/j.archger.2022.104703)," Archives of Gerontology and Geriatrics.
 
-Franklin, Rachel S., Elizabeth C. Delmelle, Clio Andris, Tao Cheng, Somayeh Dodge, Janet Franklin, Alison Heppenstall, Mei-Po Kwan, WenWen Li, Sara McLafferty, Jennifer A. Miller, Darla K. Munroe, Trisalyn Nelson, Özge Öner, Denise Pumain, Kathleen Stewart, Daoqin Tong, Elizabeth A. Wentz. (2022). [“Making Space in Geographical Analysis,”](https://doi.org/10.1111/gean.12325) Geographical Analysis
+Franklin, Rachel S., Elizabeth C. Delmelle, Clio Andris, Tao Cheng, Somayeh Dodge, Janet Franklin, Alison Heppenstall, Mei-Po Kwan, WenWen Li, Sara McLafferty, Jennifer A. Miller, Darla K. Munroe, Trisalyn Nelson, Özge Öner, Denise Pumain, Kathleen Stewart, Daoqin Tong, Elizabeth A. Wentz. (2022). “[Making Space in Geographical Analysis](https://doi.org/10.1111/gean.12325)," Geographical Analysis.
 
-Franklin, Rachel S. (2022). ["Quantitative methods I: Reckoning with uncertainty,"](https://doi.org/10.1177/03091325211063635) Progress in Human Geography
+Franklin, Rachel S. (2022). "[Quantitative methods I: Reckoning with uncertainty](https://doi.org/10.1177/03091325211063635)," Progress in Human Geography
 
-Robinson, Caitlin and Rachel S. Franklin. (2021). “The sensor desert quandary: What does it mean (not) to count in the smart city?,” Transactions of the Institute of British Geographers, https://doi.org/10.1111/tran.12415.
+Robinson, Caitlin and Rachel S. Franklin. (2021). “[The sensor desert quandary: What does it mean (not) to count in the smart city?](https://doi.org/10.1111/tran.12415),” Transactions of the Institute of British Geographers, 46(2), 238-254.
 
-Franklin, Rachel S., Victoria Houlden, Caitlin Robinson, Daniel Arribas-Bel, Elizabeth C. Delmelle, Urška Demšar, Harvey J. Miller, and David O’Sullivan. (2020). “Who Counts? Gender, Gatekeeping, and Quantitative Human Geography,” The Professional Geographer, https://doi.org/10.1080/00330124.2020.1828944.
+Franklin, Rachel S. (2021). “[The Demographic Burden of Population Loss in U.S. Cities, 2000–2010](https://doi.org/10.1007/s10109-019-00303-4),” Journal of Geographical Systems, 23(2), 209-230.
 
-Franklin, Rachel S. (2020). “I come to bury (population) growth, not to praise it,” Spatial Economic Analysis, doi: 10.1080/17421772.2020.1802056.
+Franklin, Rachel S., Victoria Houlden, Caitlin Robinson, Daniel Arribas-Bel, Elizabeth C. Delmelle, Urška Demšar, Harvey J. Miller, and David O’Sullivan. (2020). “[Who Counts? Gender, Gatekeeping, and Quantitative Human Geography](https://doi.org/10.1080/00330124.2020.1828944),” The Professional Geographer, 73(1), 48-61.
 
-Seymour, Eric, K. Arthur Endsley, and Rachel S. Franklin. (2020). “Differential drivers of rent burden in growing and shrinking cities,” Applied Geography, doi: 10.1016/j.apgeog.2020.102302.
+Franklin, Rachel S. (2020). “[I come to bury (population) growth, not to praise it](https://doi.org/10.1080/17421772.2020.1802056),” Spatial Economic Analysis, 15(4), 359-373.
 
-Franklin, Rachel S. (2020). “Geographical Analysis at Midlife,” Geographical Analysis, doi.org/10.1111/gean.12251.
+Seymour, Eric, K. Arthur Endsley, and Rachel S. Franklin. (2020). “[Differential drivers of rent burden in growing and shrinking cities](https://doi.org/10.1016/j.apgeog.2020.102302),” Applied Geography, 125, 102302.
 
-Bagchi-Sen, Sharmistha, Rachel S. Franklin, Peter Rogerson, and Eric Seymour. (2020). “Urban Inequality and the Demographic Transformation of Shrinking Cities: The Role of the Foreign Born,” Applied Geography, doi: 10.1016/j.apgeog.2020.102168.
+Franklin, Rachel S. (2020). “[Geographical Analysis at Midlife](https://doi.org/10.1111/gean.12251),” Geographical Analysis, 53(1), 47-60.
 
-Franklin, Rachel S. (2019). “The Demographic Burden of Population Loss in U.S. Cities, 2000–2010,” Journal of Geographical Systems, doi: 10.1007/s10109-019-00303-4.
+Bagchi-Sen, Sharmistha, Rachel S. Franklin, Peter Rogerson, and Eric Seymour. (2020). “[Urban Inequality and the Demographic Transformation of Shrinking Cities: The Role of the Foreign Born](https://doi.org/10.1016/j.apgeog.2020.102168),” Applied Geography, 116, 102168.
 
-Franklin, Rachel S. and Eveline S. van Leeuwen. (2018). “For Whom the Bells Toll: Alonso and a Regional Science of Decline,” International Regional Science Review, 41(2), 134–151, doi: 10.1177/0160017616675917.
+Franklin, Rachel S. and Eveline S. van Leeuwen. (2018). “[For Whom the Bells Toll: Alonso and a Regional Science of Decline](https://doi.org/10.1177/0160017616675917),” International Regional Science Review, 41(2), 134–151.
 
-Bellman, Benjamin, Seth E. Spielman, and Rachel S. Franklin. (2018). “Local Population Change and Variations in Racial Integration in the United States, 2000–2010,” International Regional Science Review, 41(2), 233–255, doi: 10.1177/0160017616665669.
+Bellman, Benjamin, Seth E. Spielman, and Rachel S. Franklin. (2018). “[Local Population Change and Variations in Racial Integration in the United States, 2000–2010](https://doi.org/10.1177/0160017616665669),” International Regional Science Review, 41(2), 233–255.
 
-Motesharrei, Safa, Jorge Rivas, Eugenia Kalnay, Ghassem R. Asrar, Antonio J. Busalacchi, Robert F. Cahalan, Mark A. Cane, Rita R. Colwell, Kuishuang Feng, Rachel S. Franklin, Klaus Hubacek, Fernando Miralles-Wilhelm, Takemasa Miyoshi, Matthias Ruth, Roald Sagdeev, Adel Shirmohammadi, Jagadish Shukla, Jelena Srebric, Victor M. Yakovenko, and Ning Zeng. (2016). “Modeling Sustainability: Population, Inequality, Consumption, and Bidirectional Coupling of the Earth and Human Systems,” National Science Review, doi.org/10.1093/nsr/nww081, 3(4), 470–494.
+Motesharrei, Safa, Jorge Rivas, Eugenia Kalnay, Ghassem R. Asrar, Antonio J. Busalacchi, Robert F. Cahalan, Mark A. Cane, Rita R. Colwell, Kuishuang Feng, Rachel S. Franklin, Klaus Hubacek, Fernando Miralles-Wilhelm, Takemasa Miyoshi, Matthias Ruth, Roald Sagdeev, Adel Shirmohammadi, Jagadish Shukla, Jelena Srebric, Victor M. Yakovenko, and Ning Zeng. (2016). “[Modeling Sustainability: Population, Inequality, Consumption, and Bidirectional Coupling of the Earth and Human Systems](https://doi.org/10.1093/nsr/nww081),” National Science Review, 3(4), 470–494.
 
-Franklin, Rachel S. and Alessandra Faggian. (2014). “College Student Migration in New England: Who Comes, Who Goes, and Why We Might Care,” Northeastern Geographer, 6, 45–60.
+Franklin, Rachel S. and Alessandra Faggian. (2014). “[College Student Migration in New England: Who Comes, Who Goes, and Why We Might Care](https://www.researchgate.net/profile/Steven-Silvern/publication/342788024_The_Northeastern_Geographer_Annual_Journal_of_Nestval-AAG_Volume_6_2014_Whole_Volume/links/5f06280192851c52d620f00c/The-Northeastern-Geographer-Annual-Journal-of-Nestval-AAG-Volume-6-2014-Whole-Volume.pdf#page=51),” Northeastern Geographer, 6, 45–60.
 
-Faggian, Alessandra and Rachel S. Franklin. (2014). “Human Capital Redistribution in the USA: The Migration of the College-Bound,” Spatial Economic Analysis, doi.org/10.1080/17421772.2014.961536, 9(4), 376–395.
+Faggian, Alessandra and Rachel S. Franklin. (2014). “[Human Capital Redistribution in the USA: The Migration of the College-Bound](https://doi.org/10.1080/17421772.2014.961536),” Spatial Economic Analysis, 9(4), 376–395.
 
-Kourtit, Karima, Peter Nijkamp, Rachel S. Franklin, and Andrés Rodríguez-Pose. (2014). “A Blueprint for Strategic Urban Research: The Urban Piazza,” Town Planning Review, doi.org/10.3828/tpr.2014.7, 85(1), 97–126.
+Kourtit, Karima, Peter Nijkamp, Rachel S. Franklin, and Andrés Rodríguez-Pose. (2014). “[A Blueprint for Strategic Urban Research: The Urban Piazza](https://www.jstor.org/stable/24579212),” Town Planning Review, doi.org/10.3828/tpr.2014.7, 85(1), 97–126.
 
-Ruth, Matthias and Rachel S. Franklin. (2014). “Livability for All? Conceptual Limits and Practical Implications,” Journal of Applied Geography, doi.org/10.1016/j.apgeog.2013.09.018, 49, 18–23.
+Ruth, Matthias and Rachel S. Franklin. (2014). “[Livability for All? Conceptual Limits and Practical Implications](https://doi.org/10.1016/j.apgeog.2013.09.018),” Journal of Applied Geography, 49, 18–23.
 
-Franklin, Rachel S. (2014). “An Examination of the Geography of Population Composition and Change in the United States, 2000–2010: Insights from Geographical Indices and a Shift-Share Analysis,” Population, Space and Place, doi.org/10.1002/psp.1744, 20(1), 18–36.
+Franklin, Rachel S. (2014). “[An Examination of the Geography of Population Composition and Change in the United States, 2000–2010: Insights from Geographical Indices and a Shift-Share Analysis](https://doi.org/10.1002/psp.1744),” Population, Space and Place, 20(1), 18–36.
 
-Cahill, Meagan E. and Rachel S. Franklin. (2013). “The Minority Homeownership Gap, Home Foreclosure, and Nativity: Evidence from Miami-Dade County,” Journal of Regional Science, doi.org/10.1111/jors.12014, 53: 91–117.
+Cahill, Meagan E. and Rachel S. Franklin. (2013). “[The Minority Homeownership Gap, Home Foreclosure, and Nativity: Evidence from Miami-Dade County](https://doi.org/10.1111/jors.12014),” Journal of Regional Science, 53: 91–117.
 
-Franklin, Rachel S. (2013). “The Roles of Population, Place, and Institution in Student Diversity in American Higher Education,” Growth and Change, doi.org/10.1111/grow.12001, 44: 30–53.
+Franklin, Rachel S. (2013). “[The Roles of Population, Place, and Institution in Student Diversity in American Higher Education](https://doi.org/10.1111/grow.12001),” Growth and Change, 44: 30–53.
 
-Franklin, Rachel S. and Jim Ketchum. (2013). “Working in a Landscape of Recession and Expansion: Academic ‘Jobs in Geography’ in the United States, 1990–2011,” The Professional Geographer, doi.org/10.1080/00330124.2012.660455, 65: 205–220.
+Franklin, Rachel S. and Jim Ketchum. (2013). “[Working in a Landscape of Recession and Expansion: Academic ‘Jobs in Geography’ in the United States, 1990–2011](https://doi.org/10.1080/00330124.2012.660455),” The Professional Geographer, 65: 205–220.
 
 ## Book Chapters, Blog Contributions, and Other Publications  
 Franklin, Rachel S. (2021). “Introduction to the Fiftieth Anniversary Special Issue: Happy Birthday, Geographical Analysis!,” Geographical Analysis.
