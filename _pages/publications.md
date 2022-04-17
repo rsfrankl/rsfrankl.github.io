@@ -15,7 +15,13 @@ Franklin, Rachel S., Eveline S. van Leeuwen, and Antonio Paez, editors. (2018). 
 Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). GIS and the Social Sciences: Theory and Applications. London: Routledge.
 
 ## Peer-Reviewed Articles  
-Franklin, Rachel S. (in press). "Quantitative methods I: Reckoning with uncertainty,” Progress in Human Geography
+Robinson, Caitlin, Rachel S. Franklin, and Jack Roberts. (Accepted). “Optimising for equity: Sensor coverage, networks and the responsive city,” The Annals of the American Association of Geographers 
+
+Wu, Yu-Tzu, Andrew Kingston, Victoria Houlden, and Rachel Franklin. (2022). [“The longitudinal associations between proximity to local grocery shops and functional ability in the very old living with and without multimorbidity: results from the Newcastle 85+ study,”](https://doi.org/10.1016/j.archger.2022.104703) Archives of Gerontology and Geriatrics
+
+Franklin, Rachel S., Elizabeth C. Delmelle, Clio Andris, Tao Cheng, Somayeh Dodge, Janet Franklin, Alison Heppenstall, Mei-Po Kwan, WenWen Li, Sara McLafferty, Jennifer A. Miller, Darla K. Munroe, Trisalyn Nelson, Özge Öner, Denise Pumain, Kathleen Stewart, Daoqin Tong, Elizabeth A. Wentz. (2022). [“Making Space in Geographical Analysis,”](https://doi.org/10.1111/gean.12325) Geographical Analysis
+
+Franklin, Rachel S. (2022). ["Quantitative methods I: Reckoning with uncertainty,"](https://doi.org/10.1177/03091325211063635) Progress in Human Geography
 
 Robinson, Caitlin and Rachel S. Franklin. (2021). “The sensor desert quandary: What does it mean (not) to count in the smart city?,” Transactions of the Institute of British Geographers, https://doi.org/10.1111/tran.12415.
 
