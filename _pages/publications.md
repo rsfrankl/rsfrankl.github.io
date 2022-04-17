@@ -59,24 +59,30 @@ Franklin, Rachel S. (2013). “[The Roles of Population, Place, and Institution 
 
 Franklin, Rachel S. and Jim Ketchum. (2013). “[Working in a Landscape of Recession and Expansion: Academic ‘Jobs in Geography’ in the United States, 1990–2011](https://doi.org/10.1080/00330124.2012.660455),” The Professional Geographer, 65: 205–220.
 
-## Book Chapters, Blog Contributions, and Other Publications  
-Franklin, Rachel S. (2021). “Introduction to the Fiftieth Anniversary Special Issue: Happy Birthday, Geographical Analysis!,” Geographical Analysis.
+## Book Chapters, Working Papers, Blog Contributions, and Other Publications  
+Royer, Jeroen, Sanne Velthuis, Mehdi Le Petit-Guerin, Rachel S. Franklin, Tim Leibert, Nicolas Cauchi-Duval, Danny MacKinnon, and Andy Pike. (2022). “[Regional travel times to services of general interest in the EU15](https://research.ncl.ac.uk/beyondleftbehindplaces/publicationsanddownloads/Working%20Paper%20-%20Regional%20Travel%20Times.pdf),” CURDS Working Paper, DOI: 10.31235/osf.io/c2bvh
 
-Franklin, Rachel S. (2020). “Why We Count: Geographers and the US Decennial Census,” Ohio State University, Department of Geography, Census 2020 Blog Series. https://u.osu.edu/geographyblog/2020/10/14/why-we-count-geographers-and-the-us-decennial-census/.
+Velthuis, Sanne, Jeroen Royer, Mehdi Le Petit-Guerin, Nicolas Cauchi-Duval, Rachel S. Franklin, Tim Leibert, Danny MacKinnon, and Andy Pike. (2022). “[Geographically uneven structural change in EU15 regions from 1980 to 2017: a cluster analysis](https://research.ncl.ac.uk/beyondleftbehindplaces/publicationsanddownloads/Working%20Paper%20-%20Economic%20Restructuring%20Cluster%20Analysis.pdf),” CURDS Working Paper, DOI: 10.31235/osf.io/xsgf9
 
-Franklin, Rachel S. (2019). “Interpreting the Geography of Human Capital Stock Variations,” Population, Place, and Spatial Interaction: Essays in Honor of David Plane. Springer. https://doi.org/10.1007/978-981-13-9231-3_5.
+Franklin, Rachel S. (2021). “[Introduction to the Fiftieth Anniversary Special Issue: Happy Birthday, Geographical Analysis!](https://doi.org/10.1111/gean.12270),” Geographical Analysis, 53(1), 3-12.
 
-Franklin, Rachel S. (2 April 2019). “What We Talk About When We Talk About Depopulation,” The Regional Studies Blog. https://blog.regionalstudies.org/what-we-talk-about-when-we-talk-about-depopulation/
+Franklin, Rachel S. and Jacques Poot. (2021). “[Guest Editorial: Spatial demography in regional science](https://doi.org/10.1007/s10109-021-00354-6),” Journal of Geographical Systems 23(2), 139-141.
 
-Franklin, Rachel S., Eveline van Leeuwen, and Antonio Paez. (2018). “Transportation Where People Leave: An Introduction,” Population Loss: The Role of Transportation and Other Issues, Rachel S. Franklin, Eveline van Leeuwen, and Antonio Paez, eds., Elsevier. doi.org/10.1016/bs.atpp.2018.09.008.
+Franklin, Rachel S. (2020). “[Why We Count: Geographers and the US Decennial Census](https://u.osu.edu/geographyblog/2020/10/14/why-we-count-geographers-and-the-us-decennial-census/),” Ohio State University, Department of Geography, Census 2020 Blog Series.
 
-Franklin, Rachel S. (2017). “Shrinking Smart: U.S. Population Decline and Footloose Human Capital,” Demographic Transition, Labour Markets and Regional Resilience, Cristina Martinez, Tamara Weyman, and Jouke van Dijk, eds., Springer.
+Franklin, Rachel S. (2019). “[Interpreting the Geography of Human Capital Stock Variations](https://doi.org/10.1007/978-981-13-9231-3_5),” Population, Place, and Spatial Interaction: Essays in Honor of David Plane. Springer.
+
+Franklin, Rachel S. (2 April 2019). “[What We Talk About When We Talk About Depopulation](https://blog.regionalstudies.org/what-we-talk-about-when-we-talk-about-depopulation/),” The Regional Studies Blog. 
+
+Franklin, Rachel S., Eveline van Leeuwen, and Antonio Paez. (2018). “[Transportation Where People Leave: An Introduction](https://doi.org/10.1016/bs.atpp.2018.09.008),” Population Loss: The Role of Transportation and Other Issues, Rachel S. Franklin, Eveline van Leeuwen, and Antonio Paez, eds., Elsevier.
+
+Franklin, Rachel S. (2017). “[Shrinking Smart: U.S. Population Decline and Footloose Human Capital](https://www.researchgate.net/profile/Rachel-Franklin-6/publication/320234130_Shrinking_Smart_US_Population_Decline_and_Footloose_Human_Capital/links/61ec1c4cc5e3103375b25b4a/Shrinking-Smart-US-Population-Decline-and-Footloose-Human-Capital.pdf),” Demographic Transition, Labour Markets and Regional Resilience, Cristina Martinez, Tamara Weyman, and Jouke van Dijk, eds., Springer.
 
 Franklin, Rachel S. and David A. Plane. (2017). “The View from Over the Hill: Regional Research in a Post–Demographic Transition World,” Regional Research Frontiers: The Next 50 Years, Randall Jackson and Peter Schaeffer, eds., Springer. doi.org/10.1007/978-3-319-50547-3_20.
 
-Franklin, Rachel S. (2017). “Words of congratulation from one side of the Pacific Rim to the other,” Asia-Pacific Journal of Regional Science, doi:10.1007/s41685-017-0025-5.
+Franklin, Rachel S. (2017). “[Words of congratulation from one side of the Pacific Rim to the other](https://doi.org/10.1007/s41685-017-0025-5),” Asia-Pacific Journal of Regional Science.
 
-Faggian, Alessandra, Jonathan Corcoran, and Rachel S. Franklin. (2017). “Human capital migration and salaries: an examination of US college graduates,” Graduate Migration and Regional Development: An International Perspective, Jonathan Corcoran and Alessandra Faggian, eds., Edward Elgar, doi.org/10.4337/9781784712167.00014.
+Faggian, Alessandra, Jonathan Corcoran, and Rachel S. Franklin. (2017). “[Human capital migration and salaries: an examination of US college graduates](https://doi.org/10.4337/9781784712167.00014),” Graduate Migration and Regional Development: An International Perspective, Jonathan Corcoran and Alessandra Faggian, eds., Edward Elgar.
 
 ## Book Reviews  
 Franklin, Rachel S. (2016). Book review of “Running the Numbers: A Practical Guide to Regional Economic and Social Analysis,” by John Quinterno. M.E. Sharpe, 2014, Journal of Planning Education and Research (JPER).
