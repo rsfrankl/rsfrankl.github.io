@@ -15,6 +15,8 @@ Franklin, Rachel S., Eveline S. van Leeuwen, and Antonio Paez, editors. (2018). 
 Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). *GIS and the Social Sciences: Theory and Applications*. London: Routledge.
 
 ## Peer-Reviewed Articles  
+Wallace, Rosalind, Rachel Franklin, Susan Grant-Muller, Alison Heppenstall, and Victoria Houlden. (Accepted for publication). "Estimating the social and spatial impacts of Covid mitigation strategies in United Kingdom regions: synthetic data and dashboards," *Cambridge Journal of Regions, Economy and Society*
+
 Robinson, Caitlin, Rachel S. Franklin, and Jack Roberts. (Accepted for publication). “Optimising for equity: Sensor coverage, networks and the responsive city,” *The Annals of the American Association of Geographers*.
 
 Wu, Yu-Tzu, Andrew Kingston, Victoria Houlden, and Rachel Franklin. (2022). “[The longitudinal associations between proximity to local grocery shops and functional ability in the very old living with and without multimorbidity: results from the Newcastle 85+ study](https://doi.org/10.1016/j.archger.2022.104703)," *Archives of Gerontology and Geriatrics*.
