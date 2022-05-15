@@ -15,7 +15,8 @@ Smart city technologies, particularly sensors, contribute to and reinforce socio
 ## Depopulation and Shrinking Cities
 Recent and ongoing projects address population loss or shrinkage at the local and regional scales in the United States. This research has focused in particular on the ways in which the degree of loss in any one time period may be mediated or exacerbated by the larger geographical and historical context; the demographic sources of population loss; spatial metrics for urban shrinkage; and the impacts of loss on inequality. These projects have been funded by the National Science Foundation and the National Institutes of Health in the United States. Other research focuses on the measurement of human capital stocks and the relationship between migration and human capital, including research on university student migration flows in the United States.
 
-## Currently-Funded Projects
+## Recent and Currently-Funded Projects
+"Estimating Pandemic Effects on Publication in Regional Studies Journals,” Regional Studies Association, April–September, 2022 (PI, £28,991)
 
 “Beyond 'Left Behind Places': Understanding Demographic and Socioeconomic Change in Peripheral Regions,” U.K. Economic and Social Research Council (ESRC), January 1, 2021–December 31, 2023 (Co-I; £563,618)
 
