@@ -55,7 +55,7 @@ Visiting Academic Appointments
 
 Fellowships and Awards
 ======
-Fellow, Royal Geographical Society (RGS), 2020–present
+Fellow, Royal Geographical Society (RGS), 2020–present  
 Fellow, Western Regional Science Association (WRSA), 2020–present  
 Fellow, Alan Turing Institute, 2018–present  
 David E. Boyce Award for Distinguished Service to the Field of Regional Science, 2015  
