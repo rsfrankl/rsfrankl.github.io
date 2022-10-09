@@ -16,7 +16,7 @@ Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). *G
 
 ## Peer-Reviewed Articles  
 
-Robinson, Caitlin, Rachel S. Franklin, and Jack Roberts. (Accepted for publication). “Optimising for equity: Sensor coverage, networks and the responsive city,” *The Annals of the American Association of Geographers*.
+Robinson, Caitlin, Rachel S. Franklin, and Jack Roberts. (2022). “[Optimising for equity: Sensor coverage, networks and the responsive city](https://doi.org/10.1080/24694452.2022.2077169),” *The Annals of the American Association of Geographers*.
 
 Wallace, Rosalind, Rachel Franklin, Susan Grant-Muller, Alison Heppenstall, and Victoria Houlden. (2022). "[Estimating the social and spatial impacts of Covid mitigation strategies in United Kingdom regions: synthetic data and dashboards](https://doi.org/10.1093/cjres/rsac019)," *Cambridge Journal of Regions, Economy and Society*.
 
