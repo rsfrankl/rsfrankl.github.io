@@ -10,7 +10,6 @@ author_profile: true
 I teach mostly methods—spatial, quantitative, and demographic. I am a firm believer that all students, regardless of background, can become confident producers and consumers of quantitative or analytical analysis. Over the past 20 years, I have taught in a Policy School at the University of Maryland, in Sociology at Brown University, and, currently, in Geography at Newcastle University. I have also taught short courses for students and faculty at Brown, in Lesvos, Greece, and at the Gran Sasso Science Institute (GSSI) and the University of Sassari, in Italy. For additional detail on my teaching, please see my CV!
 
 # Current and Recent Courses:
-
 ## Mapping the City (Newcastle University)
 This course is designed for final-year undergraduates. It presents the study of cities from a spatial analytic perspective, drawing on theory and concepts from both urban and social geography. Major concepts focus on urban development and change, the socio-demographic fabric of the city, and accessibility and spatial inequality, both within and across cities. These concepts are engaged with through GIS, spatial analytics, and visualization, with the aim of developing enlightened producers and consumers of urban research, policy, and analytics. Specifically, we cover principles of GIS, cartography, and spatial analytics through engagement with the key urban topics identified above.
 
