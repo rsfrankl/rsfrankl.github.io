@@ -15,6 +15,7 @@ Franklin, Rachel S., Eveline S. van Leeuwen, and Antonio Paez, editors. (2018). 
 Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). *GIS and the Social Sciences: Theory and Applications*. London: Routledge.
 
 ## Peer-Reviewed Articles  
+Franklin, Rachel. (In press). "Quantitative Methods II: Big theory," *Progress in Human Geography*
 
 Robinson, Caitlin, Rachel S. Franklin, and Jack Roberts. (2022). “[Optimising for equity: Sensor coverage, networks and the responsive city](https://doi.org/10.1080/24694452.2022.2077169),” *The Annals of the American Association of Geographers*.
 
