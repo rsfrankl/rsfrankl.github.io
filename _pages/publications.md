@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Books  
-Rey, Sergio and Rachel S. Franklin, editors. (in press). *Handbook of Spatial Analysis in the Social Sciences*, Elgar.
+Rey, Sergio and Rachel S. Franklin, editors. (2022). *Handbook of Spatial Analysis in the Social Sciences*, Elgar.
 
 Franklin, Rachel S., editor. (2019). *Population, Place, and Spatial Interaction: Essays in Honor of David Plane*. Springer.
 
@@ -15,7 +15,9 @@ Franklin, Rachel S., Eveline S. van Leeuwen, and Antonio Paez, editors. (2018). 
 Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). *GIS and the Social Sciences: Theory and Applications*. London: Routledge.
 
 ## Peer-Reviewed Articles  
-Franklin, Rachel. (In press). "Quantitative methods II: Big theory," *Progress in Human Geography*
+Pike, Andy, Vincent Béal, Nicolas Cauchi-Duval, Rachel Franklin, Nadir Kinossian, Thilo Lang, Tim Leibert, Danny MacKinnon, Max Rousseau, Jeroen Royer, Loris Servillo, John Tomaney, and Sanne Velthuis. (In press). “'Left behind places': A geographical etymology,” *Regional Studies*
+
+Franklin, Rachel. (2022). "[Quantitative methods II: Big theory](https://journals.sagepub.com/doi/full/10.1177/03091325221137334)," *Progress in Human Geography*
 
 Robinson, Caitlin, Rachel S. Franklin, and Jack Roberts. (2022). “[Optimising for equity: Sensor coverage, networks and the responsive city](https://doi.org/10.1080/24694452.2022.2077169),” *The Annals of the American Association of Geographers*.
 
