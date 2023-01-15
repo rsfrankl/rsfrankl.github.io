@@ -63,4 +63,4 @@ AAG Population Specialty Group Student Paper Award, 2003
 Benjamin H. Stevens Graduate Fellowship in Regional Science, 2001–2002  
 AAG European Specialty Group Graduate Student Paper Award, 2001  
 Lander MacClintock Award for Excellence in Italian Studies, 1994  
-Phi Beta Kappa, Gamma of Indiana, elected 1994  
+Phi Beta Kappa, Gamma of Indiana, elected 1994 
