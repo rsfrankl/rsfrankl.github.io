@@ -15,7 +15,7 @@ Franklin, Rachel S., Eveline S. van Leeuwen, and Antonio Paez, editors. (2018). 
 Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). *GIS and the Social Sciences: Theory and Applications*. London: Routledge.
 
 ## Peer-Reviewed Articles  
-Pike, Andy, Vincent Béal, Nicolas Cauchi-Duval, Rachel Franklin, Nadir Kinossian, Thilo Lang, Tim Leibert, Danny MacKinnon, Max Rousseau, Jeroen Royer, Loris Servillo, John Tomaney, and Sanne Velthuis. (In press). “'Left behind places': A geographical etymology,” *Regional Studies*
+Pike, Andy, Vincent Béal, Nicolas Cauchi-Duval, Rachel Franklin, Nadir Kinossian, Thilo Lang, Tim Leibert, Danny MacKinnon, Max Rousseau, Jeroen Royer, Loris Servillo, John Tomaney, and Sanne Velthuis. (2023). “['Left behind places': A geographical etymology](https://doi.org/10.1080/00343404.2023.2167972),” *Regional Studies*
 
 Franklin, Rachel. (2023). "[Quantitative methods II: Big theory](https://journals.sagepub.com/doi/full/10.1177/03091325221137334)," *Progress in Human Geography*
 
