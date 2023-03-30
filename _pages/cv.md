@@ -55,7 +55,7 @@ Visiting Academic Appointments
 
 Fellowships and Awards
 ======
-Outstanding Service Award, AAG Spatial Analysis and Modelling Specialty Group, 2023
+Outstanding Service Award, AAG Spatial Analysis and Modelling Specialty Group, 2023 
 Fellow, Royal Geographical Society (RGS), 2020–present  
 Fellow, Western Regional Science Association (WRSA), 2020–present  
 Fellow, Alan Turing Institute, 2018–present  
