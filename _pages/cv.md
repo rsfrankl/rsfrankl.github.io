@@ -55,12 +55,13 @@ Visiting Academic Appointments
 
 Fellowships and Awards
 ======
+Outstanding Service Award, AAG Spatial Analysis and Modelling Specialty Group, 2023
 Fellow, Royal Geographical Society (RGS), 2020–present  
 Fellow, Western Regional Science Association (WRSA), 2020–present  
 Fellow, Alan Turing Institute, 2018–present  
 David E. Boyce Award for Distinguished Service to the Field of Regional Science, 2015  
-AAG Population Specialty Group Student Paper Award, 2003  
+Student Paper Award, AAG Population Specialty Group, 2003  
 Benjamin H. Stevens Graduate Fellowship in Regional Science, 2001–2002  
-AAG European Specialty Group Graduate Student Paper Award, 2001  
+Graduate Student Paper Award, AAG European Specialty Group, 2001  
 Lander MacClintock Award for Excellence in Italian Studies, 1994  
 Phi Beta Kappa, Gamma of Indiana, elected 1994 
