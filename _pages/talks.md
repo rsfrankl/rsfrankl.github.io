@@ -83,21 +83,9 @@ author_profile: true
 
 “Landscapes of Loss: Depopulation and the Roles of Scale, Context, and Measurement,” School of Geography and Earth Sciences, McMaster University, Canada, March 7, 2018.
 
-“The Geography of Population Loss in the U.S.: New Insights from a Typology of Decline,” School for Environment and Sustainability, University of Michigan, November 29, 2017.
-
-“Regions and Populations: Demographic Change and Resilience,” presented in The Regional Dimension of Inequality: Territorial Responses in a Rapidly Changing Economic Environment, European Week of Regions and Cities 2017, October 10, 2017, Brussels, Belgium.
-
-“Going with the Flow? Spatial Focusing and the State-to-State Migration Behavior of College-Bound Students in the United States,” Jönköping International Business School, Jönköping University, Sweden, September 28, 2017.
-
-“Disparities in Decline: The Spatial and Demographic Burden of Population Loss in U.S. Cities,” ERSA Policy Day: Growing Inequalities and Their Regional Implications, 57th European Congress of the Regional Science Association International, Groningen, The Netherlands, August 31, 2017.
-
-“Covering the Losses: Quantifying the Burden of Decline in Shrinking U.S. Cities,” Department of Geography, University of Connecticut, October 28, 2016.
-
-“Impacts of Uneven Population Change in the United States and the Demographic Burden of Decline,” Population Geography and the Future of Urbanization in China, Symposium for Commemorating the 80th Anniversary of the Discovery of Hu Huanyong Line, East China Normal University, Shanghai, China, November 6–8, 2015.
-
-“The Demographic Burden of Population Decline in U.S. Cities,” Regional Research Institute, West Virginia University, Morgantown, September 24, 2015.
-
 ## Recent Conference Presentations  
+“Lost in transition? Trajectories of regional ‘left-behindness’ in the EU15 from 1982 to 2017,” (co-authored with Mehdi Le Petit-Guerin, Sanne Velthuis, Jeroen Royer, Nicolas Cauchi-Duval, Tim Leibert, Danny MacKinnon, and Andy Pike), Annual Meeting of the Association of American Geographers, Denver, CO, March 23–27, 2023.
+
 “Get Smart: Helping cities be intelligent about sensor placement,” Alan Turing Institute, AIUK Smart Cities Session, September 28, 2020. (virtual)
 
 “Depopulation and the Demographic Components of Change: Exploring the Connections in a United States Context,” (co-authored with Eric Seymour and Will Violette) 59th European Congress of the Regional Science Association International, Lyon, France, August 27–30, 2019.
@@ -108,29 +96,4 @@ author_profile: true
 
 “The Demographic Dividends of Decline: Population Loss and Inequality in U.S. Counties, 1990–2010,” (co-authored with Eric Seymour) Annual Meeting of the Association of American Geographers, Washington, DC, April 3–7, 2019.
 
-“The Socio-Economic and Demographic Impacts of Population Loss in the United States in Recent Decades,” (co-authored with Eric Seymour) 65th Annual North American Meetings of the Regional Science Association International, San Antonio, Texas, November 7–10, 2018.
-
-“Wrestling Small to the Ground: Spatial Analytics for Urban Population Loss,” (co-authored with Eric Seymour), 58th European Congress of the Regional Science Association International, Cork, Ireland, August 28–31, 2018.
-
-“The Landscape of Loss: Connecting County-Level Depopulation and the Demographic Components of Change,” (co-authored with Eric Seymour and William Violette) Annual Meeting of the Association of American Geographers, New Orleans, Louisiana, April 10–14, 2018.
-
-“The Dimensions of Decline: Measuring Urban Population Loss,” (co-authored with Eric Seymour) 2018 Annual Meeting of the Population Association of America, Denver, Colorado, April 26–28, 2018.
-
 “Spatial Metrics for Urban Population Loss,” (co-authored with Eric Seymour) 57th Annual Meeting of the Western Regional Science Association, Pasadena, California, February 11–14, 2018.
-
-“A Typology of Population Change for U.S. Counties,” (co-authored with Eric Seymour and William Violette) 64th Annual North American Meetings of the Regional Science Association International, Vancouver, Canada, November 8–11, 2017.
-
-“The Geography of Population Loss in the U.S.: New Insights from a Typology of Decline,” (co-authored with Douglas Hopping) 57th European Congress of the Regional Science Association International, Groningen, The Netherlands, August 29–1 September 2017.
-
-“Spatial Focusing and the State-to-State Migration Behavior of College-Bound Students in the United States,” (co-authored with Alessandra Faggian, Steven Farber, and Jeff Allen) 9th International Conference on Population Geographies, Seattle, Washington, June 29–July 1, 2017.
-
-“Fifty (or so) Ways to Lose Your Population: Comparing Typologies of Decline for U.S. Counties,” 25th Pacific Conference of the Regional Science Association International, Tainan, Taiwan, May 17–20, 2017.
-
-“Placing People: Examining the Role of Demographic Factors in Urban Development and Change,” (co-authored with Sharmistha Bagchi-Sen) Annual Meeting of the American Association of Geographers, Boston, MA, April 5–9, 2017.
-
-“The View from Over the Hill: Regional Research in a Post-Demographic Transition World,” (co-authored with David A. Plane) 63rd Annual North American Meetings of the Regional Science Association International, Minneapolis, Minnesota, November 9–12, 2016.
-
-“Measuring the Spatial and Demographic Burden of Decline in Shrinking U.S. Cities,” 63rd Annual North American Meetings of the Regional Science Association International, Minneapolis, Minnesota, November 9–12, 2016. 
-
-“Concentrated Decline: Patterns of Population Loss in Shrinking U.S. Cities,” Annual Meeting of the American Association of Geographers, San Francisco, CA, March 29–April 2, 2016 and 56th European Congress of the Regional Science Association International, Vienna, Austria, August 23–26, 2016.
-
