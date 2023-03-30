@@ -25,6 +25,16 @@ author_profile: true
 “Loss and Space: Scale, Measurement, and the Implications of Unequal Population Change,” Keynote Address, 40th Annual Conference of the Australia New Zealand Regional Science Association International (ANZRSAI), Melbourne, Australia, December 5, 2016.
 
 ## Recent Invited Presentations  
+“Future Directions for Urban Analytics and City Science,” Panel, Annual Meeting of the Association of American Geographers, Denver, CO, March 23–27, 2023.
+
+“Deciding Who Counts in the Smart City: Sensor coverage, networks and the responsive city,” Amsterdam Institute for Advanced Metropolitan Solutions (AMS), February 1, 2023
+
+“Lost in Transition? Connecting the conceptual and methodological to locate the ‘Left Behind’,” Development Economics Group, Wageningen University and Research, January 31, 2023
+
+“Lost in Translation? Connecting the conceptual and methodological to locate the ‘Left Behind’,” Urban Big Data Centre (UBDC), University of Glasgow, January 24, 2023
+
+“Estimating Pandemic Effects on Publication in Regional Studies Journals,” CURDS Seminar, Newcastle University, December 8, 2022 (with Gainbi Park)
+
 “The (Business) Case for Data,” 21th IFIP Conference e-Business, e-Services, and e-Society (I3E2022), Doctoral and Early Career Researcher Symposium, Newcastle University, September 12, 2022
 
 “Discoveries from the Lab,” Opening Panel, AI UK, London, March 22, 2022
