@@ -4,7 +4,7 @@ title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
-See CV for exhaustive list.
+See [CV](/files/CV_Franklin_CURRENT.pdf) for exhaustive list.
 
 ## Books  
 Rey, Sergio and Rachel S. Franklin, editors. (2022). *Handbook of Spatial Analysis in the Social Sciences*, Elgar.
