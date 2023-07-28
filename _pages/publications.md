@@ -4,6 +4,7 @@ title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
+See CV for exhaustive list.
 
 ## Books  
 Rey, Sergio and Rachel S. Franklin, editors. (2022). *Handbook of Spatial Analysis in the Social Sciences*, Elgar.
@@ -49,24 +50,6 @@ Franklin, Rachel S. and Eveline S. van Leeuwen. (2018). “[For Whom the Bells T
 
 Bellman, Benjamin, Seth E. Spielman, and Rachel S. Franklin. (2018). “[Local Population Change and Variations in Racial Integration in the United States, 2000–2010](https://doi.org/10.1177/0160017616665669),” *International Regional Science Review*, 41(2), 233–255.
 
-Motesharrei, Safa, Jorge Rivas, Eugenia Kalnay, Ghassem R. Asrar, Antonio J. Busalacchi, Robert F. Cahalan, Mark A. Cane, Rita R. Colwell, Kuishuang Feng, Rachel S. Franklin, Klaus Hubacek, Fernando Miralles-Wilhelm, Takemasa Miyoshi, Matthias Ruth, Roald Sagdeev, Adel Shirmohammadi, Jagadish Shukla, Jelena Srebric, Victor M. Yakovenko, and Ning Zeng. (2016). “[Modeling Sustainability: Population, Inequality, Consumption, and Bidirectional Coupling of the Earth and Human Systems](https://doi.org/10.1093/nsr/nww081),” *National Science Review*, 3(4), 470–494.
-
-Franklin, Rachel S. and Alessandra Faggian. (2014). “[College Student Migration in New England: Who Comes, Who Goes, and Why We Might Care](https://www.researchgate.net/profile/Steven-Silvern/publication/342788024_The_Northeastern_Geographer_Annual_Journal_of_Nestval-AAG_Volume_6_2014_Whole_Volume/links/5f06280192851c52d620f00c/The-Northeastern-Geographer-Annual-Journal-of-Nestval-AAG-Volume-6-2014-Whole-Volume.pdf#page=51),” *Northeastern Geographer*, 6, 45–60.
-
-Faggian, Alessandra and Rachel S. Franklin. (2014). “[Human Capital Redistribution in the USA: The Migration of the College-Bound](https://doi.org/10.1080/17421772.2014.961536),” *Spatial Economic Analysis*, 9(4), 376–395.
-
-Kourtit, Karima, Peter Nijkamp, Rachel S. Franklin, and Andrés Rodríguez-Pose. (2014). “[A Blueprint for Strategic Urban Research: The Urban Piazza](https://www.jstor.org/stable/24579212),” *Town Planning Review*, doi.org/10.3828/tpr.2014.7, 85(1), 97–126.
-
-Ruth, Matthias and Rachel S. Franklin. (2014). “[Livability for All? Conceptual Limits and Practical Implications](https://doi.org/10.1016/j.apgeog.2013.09.018),” *Journal of Applied Geography*, 49, 18–23.
-
-Franklin, Rachel S. (2014). “[An Examination of the Geography of Population Composition and Change in the United States, 2000–2010: Insights from Geographical Indices and a Shift-Share Analysis](https://doi.org/10.1002/psp.1744),” *Population, Space and Place*, 20(1), 18–36.
-
-Cahill, Meagan E. and Rachel S. Franklin. (2013). “[The Minority Homeownership Gap, Home Foreclosure, and Nativity: Evidence from Miami-Dade County](https://doi.org/10.1111/jors.12014),” *Journal of Regional Science*, 53: 91–117.
-
-Franklin, Rachel S. (2013). “[The Roles of Population, Place, and Institution in Student Diversity in American Higher Education](https://doi.org/10.1111/grow.12001),” *Growth and Change*, 44: 30–53.
-
-Franklin, Rachel S. and Jim Ketchum. (2013). “[Working in a Landscape of Recession and Expansion: Academic ‘Jobs in Geography’ in the United States, 1990–2011](https://doi.org/10.1080/00330124.2012.660455),” *The Professional Geographer*, 65: 205–220.
-
 ## Book Chapters, Working Papers, Blog Contributions, and Other Publications  
 Royer, Jeroen, Sanne Velthuis, Mehdi Le Petit-Guerin, Rachel S. Franklin, Tim Leibert, Nicolas Cauchi-Duval, Danny MacKinnon, and Andy Pike. (2022). “[Regional travel times to services of general interest in the EU15](https://research.ncl.ac.uk/beyondleftbehindplaces/publicationsanddownloads/Working%20Paper%20-%20Regional%20Travel%20Times.pdf),” CURDS Working Paper, DOI: 10.31235/osf.io/c2bvh
 
@@ -89,20 +72,3 @@ Franklin, Rachel S. (2017). “[Shrinking Smart: U.S. Population Decline and Foo
 Franklin, Rachel S. and David A. Plane. (2017). “The View from Over the Hill: Regional Research in a Post–Demographic Transition World,” *Regional Research Frontiers: The Next 50 Years*, Randall Jackson and Peter Schaeffer, eds., Springer. doi.org/10.1007/978-3-319-50547-3_20.
 
 Franklin, Rachel S. (2017). “[Words of congratulation from one side of the Pacific Rim to the other](https://doi.org/10.1007/s41685-017-0025-5),” *Asia-Pacific Journal of Regional Science*.
-
-Faggian, Alessandra, Jonathan Corcoran, and Rachel S. Franklin. (2017). “[Human capital migration and salaries: an examination of US college graduates](https://doi.org/10.4337/9781784712167.00014),” *Graduate Migration and Regional Development: An International Perspective*, Jonathan Corcoran and Alessandra Faggian, eds., Edward Elgar.
-
-Franklin, Rachel S. (2014). “The Landscape of Population Decline in the United States: Considering the roles of the demographic components of change and geography,” *Shrinking Cities: A Global Perspective*, Richardson, Harry W. and Chang Woon Nam, eds., 74–85, Routledge.
-
-Franklin, Rachel S. (2013). “[Population Geography](https://www.oxfordbibliographies.com/view/document/obo-9780199874002/obo-9780199874002-0065.xml),” Oxford Bibliographies in Geography.
-
-Franklin, Rachel S. (2012). “Demographic Dimensions: Describing Populations,” *21st Century Geography: A Reference Handbook*, Stoltman, Joseph P. (Ed.), Sage Publications.
-
-Schachter, Jason P., Rachel S. Franklin, and Marc J. Perry. (2003). “[Migration and Geographic Mobility in Metropolitan and Nonmetropolitan America: 1995 to 2000](https://www.researchgate.net/publication/360005836_Migration_and_Geographic_Mobility_in_Metropolitan_and_Nonmetropolitan_America_1995_to_2000),” U.S. Census Bureau, Census 2000 Special Reports, CENSR-9.
-
-Franklin, Rachel S. (2003). “[Migration of the Young, Single, and College Educated: 1995 to 2000](https://www.researchgate.net/publication/246827338_Migration_of_the_Young_Single_and_College_Educated_1995-2000),” U.S. Census Bureau, Census 2000 Special Reports, CENSR-12.
-
-Franklin, Rachel S. (2003). “[Domestic Migration Across Regions, Divisions, and States: 1995 to 2000](https://usa.ipums.org/usa/resources/voliii/pubdocs/2000/censr-7.pdf),” U.S. Census Bureau, Census 2000 Special Reports, CENSR-7.
-
-## Book Reviews  
-Franklin, Rachel S. (2016). Book review of “Running the Numbers: A Practical Guide to Regional Economic and Social Analysis,” by John Quinterno. M.E. Sharpe, 2014, *Journal of Planning Education and Research (JPER)*.
