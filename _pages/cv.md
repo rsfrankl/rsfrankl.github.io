@@ -25,13 +25,13 @@ Degré d’Etudes Françaises, Université de Strasbourg, France, 1993
 Appointments
 ======
 
-### **The Alan Turing Institute**  
-- **University Lead – Newcastle**, 2021–present
-
 ### **Newcastle University**  
 - **Head**, Newcastle Data, February 2022–present
 - **Professor of Geographical Analysis**, Centre for Urban and Regional Development Studies (CURDS), School of Geography, Politics and Sociology, 2018–present
 
+### **The Alan Turing Institute**  
+- **University Lead – Newcastle**, 2021–2023
+- 
 ### **Brown University**  
 - **Associate Director**, Spatial Structures in the Social Sciences (S4), 2010–2018  
 - **Associate Professor (Research)**, Population Studies, 2015–2018  
