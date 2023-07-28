@@ -4,7 +4,7 @@ title: "Recent Keynotes + Talks"
 permalink: /talks/
 author_profile: true
 ---
-See CV for exhaustive list.
+See [CV](/files/CV_Franklin_CURRENT.pdf) for exhaustive list.
 
 ## Conference Keynotes  
 “The changing data ecosystem in demography. Non‐traditional data sources,” Plenary, with Alice Reid and Andy Tatum, British Society for Population Studies (BSPS) 2022 Conference, Winchester, England, September 5, 2022
