@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks + Keynotes"
+title: "Recent Keynotes and Talks"
 permalink: /talks/
 author_profile: true
 ---
@@ -24,7 +24,7 @@ author_profile: true
 
 “Loss and Space: Scale, Measurement, and the Implications of Unequal Population Change,” Keynote Address, 40th Annual Conference of the Australia New Zealand Regional Science Association International (ANZRSAI), Melbourne, Australia, December 5, 2016.
 
-## Recent Invited Presentations + Panels 
+## Invited Presentations + Panels 
 “Lost in Translation?: Connecting the conceptual and methodological to locate the “Left Behind,” Intersections Seminar, Department of Geography and Planning, University of Toronto, April 28. 2023.
 
 “How have place-based policies evolved to date and what are they now?”, Invited Contribution, Workshop, OECD, Paris, April 14, 2023.
