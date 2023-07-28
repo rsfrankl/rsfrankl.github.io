@@ -24,7 +24,11 @@ author_profile: true
 
 “Loss and Space: Scale, Measurement, and the Implications of Unequal Population Change,” Keynote Address, 40th Annual Conference of the Australia New Zealand Regional Science Association International (ANZRSAI), Melbourne, Australia, December 5, 2016.
 
-## Recent Invited Presentations  
+## Recent Invited Presentations + Panels 
+“Lost in Translation?: Connecting the conceptual and methodological to locate the “Left Behind,” Intersections Seminar, Department of Geography and Planning, University of Toronto, April 28. 2023.
+
+“How have place-based policies evolved to date and what are they now?”, Invited Contribution, Workshop, OECD, Paris, April 14, 2023.
+
 “Future Directions for Urban Analytics and City Science,” Panel, Annual Meeting of the Association of American Geographers, Denver, CO, March 23–27, 2023.
 
 “Deciding Who Counts in the Smart City: Sensor coverage, networks and the responsive city,” Amsterdam Institute for Advanced Metropolitan Solutions (AMS), February 1, 2023
@@ -72,16 +76,6 @@ author_profile: true
 “Social Justice, Inequality, and Technology: Something Old, Something New, Something Borrowed, Something True,” Not Equal Launch Symposium, London, January 29, 2019.
 
 “The Spatial Demography of Population Loss: Insights from the United States,” JDS International Seminar, University of Tsukuba, Japan, January 24, 2019.
-
-“What Kind of Loss for What Kind of Place?: A Typology of Demographic Decline for U.S. Counties,” Department of Geography and Planning, University of Liverpool, 11 December 2018.
-
-“The Geography of Population Loss: A Typology of Decline for U.S. Counties,” Newcastle University Geomatics and Water Resources Seminar, Newcastle University, 10 December 2018.
-
-“Growth and Decline: Capturing the Spatial Dimensions of Decline,” Urban-Rural Synergies Seminar, University of Wageningen, The Netherlands, September 14, 2018.
-
-“Capturing the Spatial Dimensions of Decline: Metrics for Characterizing Population Loss,” Department of Geography, University of California, Santa Barbara, March 12, 2018.
-
-“Landscapes of Loss: Depopulation and the Roles of Scale, Context, and Measurement,” School of Geography and Earth Sciences, McMaster University, Canada, March 7, 2018.
 
 ## Recent Conference Presentations  
 “Lost in transition? Trajectories of regional ‘left-behindness’ in the EU15 from 1982 to 2017,” (co-authored with Mehdi Le Petit-Guerin, Sanne Velthuis, Jeroen Royer, Nicolas Cauchi-Duval, Tim Leibert, Danny MacKinnon, and Andy Pike), Annual Meeting of the Association of American Geographers, Denver, CO, March 23–27, 2023.
