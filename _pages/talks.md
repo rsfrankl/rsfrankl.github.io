@@ -7,6 +7,8 @@ author_profile: true
 See [CV](/files/CV_Franklin_CURRENT.pdf) for exhaustive list.
 
 ## Conference Keynotes  
+“The Answer to the Ultimate (Demographic) Question of Life, the Universe, and Everything,” Keynote, IGU Applied Population Geography Research Workshop, University of the Aegean, Lesvos, Greece, September 19, 2023
+
 “The changing data ecosystem in demography. Non‐traditional data sources,” Plenary, with Alice Reid and Andy Tatum, British Society for Population Studies (BSPS) 2022 Conference, Winchester, England, September 5, 2022
 
 “Choose Your Own Adventure: Charting a Fulfilling Professional Path in the Geospatial Sciences,” Keynote, TRELIS 2022 Workshop, University Consortium for Geographic Information Science (UCGIS), Minnowbrook Conference Center, Blue Mountain Lake, New York, June 6, 2022
@@ -26,6 +28,10 @@ See [CV](/files/CV_Franklin_CURRENT.pdf) for exhaustive list.
 “Loss and Space: Scale, Measurement, and the Implications of Unequal Population Change,” Keynote Address, 40th Annual Conference of the Australia New Zealand Regional Science Association International (ANZRSAI), Melbourne, Australia, December 5, 2016
 
 ## Invited Presentations and Panels 
+“Lost in translation? Connecting the conceptual and methodological to locate the ‘Left Behind’,” CIRCLE, Lund University, October 4, 2023
+
+“Thinking about ‘progress’ in quantitative methods,” Department of Human Geography, Lund University, October 4, 2023
+
 “Lost in Translation?: Connecting the conceptual and methodological to locate the “Left Behind,” Intersections Seminar, Department of Geography and Planning, University of Toronto, April 28, 2023
 
 “How have place-based policies evolved to date and what are they now?”, Invited Contribution, Workshop, OECD, Paris, April 14, 2023
