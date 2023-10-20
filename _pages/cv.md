@@ -30,8 +30,9 @@ Appointments
 - **Professor of Geographical Analysis**, Centre for Urban and Regional Development Studies (CURDS), School of Geography, Politics and Sociology, 2018–present
 
 ### **The Alan Turing Institute**  
+- **Group Leader – Liveability**, Science of Cities and Regions Programme (SoCaR), 2023–present
 - **University Lead – Newcastle**, 2021–2023
-- 
+  
 ### **Brown University**  
 - **Associate Director**, Spatial Structures in the Social Sciences (S4), 2010–2018  
 - **Associate Professor (Research)**, Population Studies, 2015–2018  
@@ -58,7 +59,7 @@ Fellowships and Awards
 Outstanding Service Award, AAG Spatial Analysis and Modelling Specialty Group, 2023  
 Fellow, Royal Geographical Society (RGS), 2020–present  
 Fellow, Western Regional Science Association (WRSA), 2020–present  
-Fellow, Alan Turing Institute, 2018–present  
+Fellow, Alan Turing Institute, 2018–2023 
 David E. Boyce Award for Distinguished Service to the Field of Regional Science, 2015  
 Student Paper Award, AAG Population Specialty Group, 2003  
 Benjamin H. Stevens Graduate Fellowship in Regional Science, 2001–2002  
