@@ -59,7 +59,7 @@ Fellowships and Awards
 Outstanding Service Award, AAG Spatial Analysis and Modelling Specialty Group, 2023  
 Fellow, Royal Geographical Society (RGS), 2020–present  
 Fellow, Western Regional Science Association (WRSA), 2020–present  
-Fellow, Alan Turing Institute, 2018–2023 
+Fellow, Alan Turing Institute, 2018–2023  
 David E. Boyce Award for Distinguished Service to the Field of Regional Science, 2015  
 Student Paper Award, AAG Population Specialty Group, 2003  
 Benjamin H. Stevens Graduate Fellowship in Regional Science, 2001–2002  
