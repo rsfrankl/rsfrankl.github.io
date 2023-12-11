@@ -15,8 +15,8 @@ Franklin, Rachel S., Eveline S. van Leeuwen, and Antonio Paez, editors. (2018). 
 
 Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). *GIS and the Social Sciences: Theory and Applications*. London: Routledge.
 
-## Peer-Reviewed Articles  
-Franklin, Rachel. (In press). "[Quantitative Methods III: Strength in Numbers?](https://journals.sagepub.com/doi/10.1177/03091325231210512)," *Progress in Human Geography*
+## Recent Peer-Reviewed Articles  
+Franklin, Rachel. (2023). "[Quantitative Methods III: Strength in Numbers?](https://journals.sagepub.com/doi/10.1177/03091325231210512)," *Progress in Human Geography*
 
 Sanderson, Rachael, Rachel Franklin, Danny MacKinnon, and Joe Matthews. (2023). "[Left behind and left out: Evaluating (dis)connections in the spatially focused migration network of England and Wales](https://onlinelibrary.wiley.com/doi/full/10.1002/psp.2722)," *Population, Space and Place*
 
@@ -49,10 +49,6 @@ Seymour, Eric, K. Arthur Endsley, and Rachel S. Franklin. (2020). “[Differenti
 Franklin, Rachel S. (2020). “[Geographical Analysis at Midlife](https://doi.org/10.1111/gean.12251),” *Geographical Analysis*, 53(1), 47-60.
 
 Bagchi-Sen, Sharmistha, Rachel S. Franklin, Peter Rogerson, and Eric Seymour. (2020). “[Urban Inequality and the Demographic Transformation of Shrinking Cities: The Role of the Foreign Born](https://doi.org/10.1016/j.apgeog.2020.102168),” *Applied Geography*, 116, 102168.
-
-Franklin, Rachel S. and Eveline S. van Leeuwen. (2018). “[For Whom the Bells Toll: Alonso and a Regional Science of Decline](https://doi.org/10.1177/0160017616675917),” *International Regional Science Review*, 41(2), 134–151.
-
-Bellman, Benjamin, Seth E. Spielman, and Rachel S. Franklin. (2018). “[Local Population Change and Variations in Racial Integration in the United States, 2000–2010](https://doi.org/10.1177/0160017616665669),” *International Regional Science Review*, 41(2), 233–255.
 
 ## Book Chapters, Working Papers, Blog Contributions, and Other Publications  
 Royer, Jeroen, Sanne Velthuis, Mehdi Le Petit-Guerin, Rachel S. Franklin, Tim Leibert, Nicolas Cauchi-Duval, Danny MacKinnon, and Andy Pike. (2022). “[Regional travel times to services of general interest in the EU15](https://research.ncl.ac.uk/beyondleftbehindplaces/publicationsanddownloads/Working%20Paper%20-%20Regional%20Travel%20Times.pdf),” CURDS Working Paper, DOI: 10.31235/osf.io/c2bvh
