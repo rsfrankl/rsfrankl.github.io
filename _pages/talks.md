@@ -28,6 +28,12 @@ See [CV](/files/CV_Franklin_CURRENT.pdf) for exhaustive list.
 “Loss and Space: Scale, Measurement, and the Implications of Unequal Population Change,” Keynote Address, 40th Annual Conference of the Australia New Zealand Regional Science Association International (ANZRSAI), Melbourne, Australia, December 5, 2016
 
 ## Invited Presentations and Panels 
+“Sequence Analysis and Clustering Methods for Identifying Left Behind Places,” GIScience Group, Department of Geography, University of Zurich, February 7, 2024
+
+“Spatial Inequality and the Smart City,” Bartlett School of Planning Public Lecture, UCL, London, January 25, 2024
+
+“Data, Data Science, and the Persistent Challenge of Spatial Inequality,” Darlington Economic Campus, January 18, 2024
+
 "[Disruptions, Engagement, and ~~GIScience~~ Solutions](https://rpubs.com/Rachel_Franklin/disruptions)," Spatial Data Science in an Age of Scientific Disruption Workshop, Santa Barbara, California, December 7–8, 2023
 
 “Lost in translation? Connecting the conceptual and methodological to locate the ‘Left Behind’,” CIRCLE, Lund University, October 4, 2023
