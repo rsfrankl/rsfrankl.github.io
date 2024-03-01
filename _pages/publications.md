@@ -16,6 +16,10 @@ Franklin, Rachel S., Eveline S. van Leeuwen, and Antonio Paez, editors. (2018). 
 Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). *GIS and the Social Sciences: Theory and Applications*. London: Routledge.
 
 ## Recent Peer-Reviewed Articles  
+Houlden, Victoria, Caitlin Robinson, Rachel Franklin, Francisco Rowe, and Andy Pike. (in press). "Left Behind Neighbourhoods in England: Where They Are and Why They Matter," *The Geographical Journal*
+
+Sanderson, Rachael, Rachel Franklin, Danny MacKinnon, and Joe Matthews. (2024). “[Left Out and Invisible?: Exploring Social Media Representation of ‘Left Behind Places’](https://link.springer.com/article/10.1007/s10708-024-11010-z),” *GeoJournal*
+
 Franklin, Rachel. (2023). "[Quantitative Methods III: Strength in Numbers?](https://journals.sagepub.com/doi/10.1177/03091325231210512)," *Progress in Human Geography*
 
 Sanderson, Rachael, Rachel Franklin, Danny MacKinnon, and Joe Matthews. (2023). "[Left behind and left out: Evaluating (dis)connections in the spatially focused migration network of England and Wales](https://onlinelibrary.wiley.com/doi/full/10.1002/psp.2722)," *Population, Space and Place*
