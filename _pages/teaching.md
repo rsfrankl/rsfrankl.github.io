@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I teach mostly methods—spatial, quantitative, and demographic. I am a firm believer that all students, regardless of background, can become confident and proficient producers, consumers, and interpreters of quantitative or analytical analysis. Over the past 20 years, I have taught in a Policy School at the University of Maryland, in Sociology at Brown University, and, most recently, in Geography at Newcastle University. I have also taught short courses for students and faculty at Brown, in Lesvos, Greece, and at the Gran Sasso Science Institute (GSSI) and the University of Sassari, in Italy. For additional detail on my teaching, please see my CV!
+I teach mostly methods—spatial, quantitative, and demographic. I am a firm believer that all students, regardless of background, can become confident and proficient producers, consumers, and interpreters of quantitative or analytical analysis. Over the past 20 years, I have taught in a Policy School at the University of Maryland, in Sociology at Brown University, and, most recently, in Geography at Newcastle University. I have also taught short courses for students and faculty at Brown, in Lesvos, Greece, and at the Gran Sasso Science Institute (GSSI) and the University of Sassari, in Italy. For additional detail on my teaching, please see my [CV](/files/CV_Franklin_CURRENT.pdf)!
 
 # Current and Recent Courses:
 ## Mapping the City (Newcastle University)
