@@ -56,6 +56,7 @@ Visiting Academic Appointments
 
 Fellowships and Awards
 ======
+Fellow, Regional Studies Association, 2024
 Outstanding Service Award, AAG Spatial Analysis and Modelling Specialty Group, 2023  
 Fellow, Royal Geographical Society (RGS), 2020–present  
 Fellow, Western Regional Science Association (WRSA), 2020–present  
