@@ -55,6 +55,10 @@ Franklin, Rachel S. (2020). “[Geographical Analysis at Midlife](https://doi.or
 Bagchi-Sen, Sharmistha, Rachel S. Franklin, Peter Rogerson, and Eric Seymour. (2020). “[Urban Inequality and the Demographic Transformation of Shrinking Cities: The Role of the Foreign Born](https://doi.org/10.1016/j.apgeog.2020.102168),” *Applied Geography*, 116, 102168.
 
 ## Book Chapters, Working Papers, Blog Contributions, and Other Publications  
+Franklin, Rachel. (2024). "[Not the Data Revolution We Want, but Maybe the Data Revolution We Need](https://open.substack.com/pub/rachelfranklin/p/not-the-data-revolution-we-want-but?r=3xp53&utm_campaign=post&utm_medium=web)," SubStack Newsletter
+
+Franklin, Rachel. (2023). "[Waking Up Early to Ponder the Future of Urban Analytics](https://open.substack.com/pub/rachelfranklin/p/waking-up-early-to-ponder-the-future?r=3xp53&utm_campaign=post&utm_medium=web)," SubStack Newsletter
+
 Royer, Jeroen, Sanne Velthuis, Mehdi Le Petit-Guerin, Rachel S. Franklin, Tim Leibert, Nicolas Cauchi-Duval, Danny MacKinnon, and Andy Pike. (2022). “[Regional travel times to services of general interest in the EU15](https://research.ncl.ac.uk/beyondleftbehindplaces/publicationsanddownloads/Working%20Paper%20-%20Regional%20Travel%20Times.pdf),” CURDS Working Paper, DOI: 10.31235/osf.io/c2bvh
 
 Velthuis, Sanne, Jeroen Royer, Mehdi Le Petit-Guerin, Nicolas Cauchi-Duval, Rachel S. Franklin, Tim Leibert, Danny MacKinnon, and Andy Pike. (2022). “[Geographically uneven structural change in EU15 regions from 1980 to 2017: a cluster analysis](https://research.ncl.ac.uk/beyondleftbehindplaces/publicationsanddownloads/Working%20Paper%20-%20Economic%20Restructuring%20Cluster%20Analysis.pdf),” CURDS Working Paper, DOI: 10.31235/osf.io/xsgf9
@@ -74,5 +78,3 @@ Franklin, Rachel S., Eveline van Leeuwen, and Antonio Paez. (2018). “[Transpor
 Franklin, Rachel S. (2017). “[Shrinking Smart: U.S. Population Decline and Footloose Human Capital](https://www.researchgate.net/profile/Rachel-Franklin-6/publication/320234130_Shrinking_Smart_US_Population_Decline_and_Footloose_Human_Capital/links/61ec1c4cc5e3103375b25b4a/Shrinking-Smart-US-Population-Decline-and-Footloose-Human-Capital.pdf),” *Demographic Transition, Labour Markets and Regional Resilience*, Cristina Martinez, Tamara Weyman, and Jouke van Dijk, eds., Springer.
 
 Franklin, Rachel S. and David A. Plane. (2017). “The View from Over the Hill: Regional Research in a Post–Demographic Transition World,” *Regional Research Frontiers: The Next 50 Years*, Randall Jackson and Peter Schaeffer, eds., Springer. doi.org/10.1007/978-3-319-50547-3_20.
-
-Franklin, Rachel S. (2017). “[Words of congratulation from one side of the Pacific Rim to the other](https://doi.org/10.1007/s41685-017-0025-5),” *Asia-Pacific Journal of Regional Science*.
