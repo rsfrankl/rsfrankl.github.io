@@ -25,8 +25,6 @@ See [CV](/files/CV_Franklin_CURRENT.pdf) for exhaustive list.
 
 “I Come to Bury Growth, Not to Praise It,” Keynote Address, Regional Studies Association Annual Conference, Santiago de Compostela, Spain, June 5, 2019
 
-“Loss and Space: Scale, Measurement, and the Implications of Unequal Population Change,” Keynote Address, 40th Annual Conference of the Australia New Zealand Regional Science Association International (ANZRSAI), Melbourne, Australia, December 5, 2016
-
 ## Invited Presentations and Panels 
 “Sequence Analysis and Clustering Methods for Identifying Left Behind Places,” GIScience Group, Department of Geography, University of Zurich, February 7, 2024
 
@@ -54,44 +52,6 @@ See [CV](/files/CV_Franklin_CURRENT.pdf) for exhaustive list.
 
 “Estimating Pandemic Effects on Publication in Regional Studies Journals,” CURDS Seminar, Newcastle University, December 8, 2022 (with Gainbi Park)
 
-“The (Business) Case for Data,” 21th IFIP Conference e-Business, e-Services, and e-Society (I3E2022), Doctoral and Early Career Researcher Symposium, Newcastle University, September 12, 2022
-
-“Discoveries from the Lab,” Opening Panel, AI UK, London, March 22, 2022
-
-“Spatial Inequality and the Smart City,” Urban Analytics Programme, Monthly Meet Up, Alan Turing Institute, February 28, 2022 (virtual)
-
-“Mind the Gap! Today’s Data for Tomorrow’s Innovation,” Newcastle Discover Talks–Data, Newcastle University, January 27, 2022 (virtual)
-
-“Spatial Inequality and the Smart City,” Turing Fellows Project Seminar Series: Urban Analytics, October 7, 2021 (virtual)
-
-"Who Counts in the Smart City?,” Citizens Collective, TU Delft, September 15, 2021 (virtual)
-
-“Patterns of Demographic Change,” Symposium on Legacy Cities and Left-Behind Places: Comparative Analysis, Policy and Practice, organized by Lincoln Institute for Land Policy and the Bartlett School of Planning at UCL, June 17, 2021 (virtual)
-
-“Sensor Placement, Inequality, and Informed Decision Making in the Smart City,” GIScience Center, Department of Geography, University of Zurich, May 25, 2021 (virtual)
-
-“The Spatial Demography of Depopulation,” Geography, Queen’s University Belfast, May 20, 2021 (virtual)
-
-“Spatial (Data) is Special: Creating Space in Social Science and Humanities Research,” Demystifying Data Workshop, Institute of Social Science, Newcastle University, March 25, 2021 (virtual)
-
-“The Spatial Demography of Depopulation: The U.S. Example,” School of Geography, Geology and the Environment, University of Leicester, January 13, 2021 (virtual)
-
-“Optimising for Equity: Sensor coverage, networks, and the responsive city,” Bartlett Centre for Applied Spatial Analysis (CASA), University College London (UCL), December 2, 2020 (virtual)
-
-“The Geography of Depopulation in the United States,” Charlas de Economía (Economics Seminars), Universidad Icesi, Colombia, November 5, 2020. (virtual)
-
-“Sensing Inequality: Smart Cities, Sensor Deserts, and the Politics of Decision-Making,” Lectures in Planning (LiPS), Columbia University, Graduate School of Architecture, Planning and Preservation (GSAPP), September 29, 2020. (virtual)
-
-“Smart Cities and Spatial Inequality,” Social Sciences Webinar Series, Gran Sasso Science Institute (GSSI), May 12, 2020. (virtual)
-
-“Friendly for the Ages: Demographic Change and Inclusive Rural Policies,” OECD Rural Development Conference, Seoul, South Korea, September 25, 2019.
-
-“Population Loss in a U.S. Context: Where, Who, How?” University of Bristol, School of Geographical Sciences, March 25, 2019.
-
-“Social Justice, Inequality, and Technology: Something Old, Something New, Something Borrowed, Something True,” Not Equal Launch Symposium, London, January 29, 2019.
-
-“The Spatial Demography of Population Loss: Insights from the United States,” JDS International Seminar, University of Tsukuba, Japan, January 24, 2019.
-
 ## Recent Conference Presentations  
 “Lost in transition? Trajectories of regional ‘left-behindness’ in the EU15 from 1982 to 2017,” (co-authored with Mehdi Le Petit-Guerin, Sanne Velthuis, Jeroen Royer, Nicolas Cauchi-Duval, Tim Leibert, Danny MacKinnon, and Andy Pike), Annual Meeting of the Association of American Geographers, Denver, CO, March 23–27, 2023
 
@@ -104,5 +64,3 @@ See [CV](/files/CV_Franklin_CURRENT.pdf) for exhaustive list.
 “Smart city technologies and urban demography: Inequality and sensor coverage deserts,” (co-authored with Caitlin Robinson, David Herbert, Philip James, and Stuart Barr) 10th Annual International Population Geographies Conference, Loughborough University, July 1–3, 2019
 
 “The Demographic Dividends of Decline: Population Loss and Inequality in U.S. Counties, 1990–2010,” (co-authored with Eric Seymour) Annual Meeting of the Association of American Geographers, Washington, DC, April 3–7, 2019
-
-“Spatial Metrics for Urban Population Loss,” (co-authored with Eric Seymour) 57th Annual Meeting of the Western Regional Science Association, Pasadena, California, February 11–14, 2018
