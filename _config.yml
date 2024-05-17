@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "rsfrankl"
+title                    : "Rachel Franklin"
 name                     : &name "Rachel Franklin"
 description              : &description "Newcastle University"
 url                      : https://rsfrankl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
