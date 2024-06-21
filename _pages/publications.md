@@ -44,19 +44,11 @@ Franklin, Rachel. (2022). "[Quantitative methods I: Reckoning with uncertainty](
 
 Robinson, Caitlin and Rachel S. Franklin. (2021). “[The sensor desert quandary: What does it mean (not) to count in the smart city?](https://doi.org/10.1111/tran.12415),” *Transactions of the Institute of British Geographers*, 46(2), 238-254.
 
-Franklin, Rachel S. (2021). “[The Demographic Burden of Population Loss in U.S. Cities, 2000–2010](https://doi.org/10.1007/s10109-019-00303-4),” *Journal of Geographical Systems*, 23(2), 209-230.
-
-Franklin, Rachel S., Victoria Houlden, Caitlin Robinson, Daniel Arribas-Bel, Elizabeth C. Delmelle, Urška Demšar, Harvey J. Miller, and David O’Sullivan. (2020). “[Who Counts? Gender, Gatekeeping, and Quantitative Human Geography](https://doi.org/10.1080/00330124.2020.1828944),” *The Professional Geographer*, 73(1), 48-61.
-
-Franklin, Rachel S. (2020). “[I come to bury (population) growth, not to praise it](https://doi.org/10.1080/17421772.2020.1802056),” *Spatial Economic Analysis*, 15(4), 359-373.
-
-Seymour, Eric, K. Arthur Endsley, and Rachel S. Franklin. (2020). “[Differential drivers of rent burden in growing and shrinking cities](https://doi.org/10.1016/j.apgeog.2020.102302),” *Applied Geography*, 125, 102302.
-
-Franklin, Rachel S. (2020). “[Geographical Analysis at Midlife](https://doi.org/10.1111/gean.12251),” *Geographical Analysis*, 53(1), 47-60.
-
-Bagchi-Sen, Sharmistha, Rachel S. Franklin, Peter Rogerson, and Eric Seymour. (2020). “[Urban Inequality and the Demographic Transformation of Shrinking Cities: The Role of the Foreign Born](https://doi.org/10.1016/j.apgeog.2020.102168),” *Applied Geography*, 116, 102168.
-
 ## Book Chapters, Working Papers, Blog Contributions, and Other Publications  
+Franklin, Rachel. (in press). “All Theories Are Wrong but Some Are Useful,” *Dialogues in Human Geography*
+
+Malleson, Nick, Rachel Franklin, Daniel Arribas-Bel, Tao Cheng, and Mark Birkin. (2024). “[Digital twins on trial: Can they actually solve wicked societal problems and change the world for better?](https://doi.org/10.1177/23998083241262893),” *Environment and Planning B*
+
 Franklin, Rachel. (2024). "[Not the Data Revolution We Want, but Maybe the Data Revolution We Need](https://open.substack.com/pub/rachelfranklin/p/not-the-data-revolution-we-want-but?r=3xp53&utm_campaign=post&utm_medium=web)," SubStack Newsletter
 
 Franklin, Rachel. (2023). "[Waking Up Early to Ponder the Future of Urban Analytics](https://open.substack.com/pub/rachelfranklin/p/waking-up-early-to-ponder-the-future?r=3xp53&utm_campaign=post&utm_medium=web)," SubStack Newsletter
