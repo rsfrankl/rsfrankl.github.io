@@ -16,6 +16,8 @@ Franklin, Rachel S., Eveline S. van Leeuwen, and Antonio Paez, editors. (2018). 
 Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). *GIS and the Social Sciences: Theory and Applications*. London: Routledge.
 
 ## Recent Peer-Reviewed Articles  
+Nelson, Trisalyn, Amy E. Frazier, Peter Kedron, Somayeh Dodge, Bo Zhao, Michael Goodchild, Alan Murray, Sarah Battersby, Lauren Bennett, Justine I. Blanford, Carmen Cabrera-Arnau, Christophe Claramunt, Rachel Franklin, Joseph Holler, Caglar Koylu,  Angela Lee, Steven Manson,  Grant McKenzie, Harvey Miller, Taylor Oshan, Sergio Rey, Francisco Rowe, Seda Şalap-Ayça, Eric Shook, Seth Spielman, Wenfei Xu, and John Wilson. (2024). “[A Research Agenda for GIScience in a Time of Disruptions](https://doi.org/10.1080/13658816.2024.2405191),” *International Journal of Geographical Information Science*
+
 Zied Abozied, Eman, Caitlin Robinson, Rachel Franklin, Kate Court, and Jack Roberts. (2024). "[A spatial decision support framework for equitable sensor network distribution in the smart city](https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1111/geoj.12605)," *The Geographical Journal*
 
 Houlden, Victoria, Caitlin Robinson, Rachel Franklin, Francisco Rowe, and Andy Pike. (2024). "[Left Behind Neighbourhoods in England: Where They Are and Why They Matter](https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1111/geoj.12583)," *The Geographical Journal*
@@ -47,7 +49,7 @@ Franklin, Rachel. (2022). "[Quantitative methods I: Reckoning with uncertainty](
 Robinson, Caitlin and Rachel S. Franklin. (2021). “[The sensor desert quandary: What does it mean (not) to count in the smart city?](https://doi.org/10.1111/tran.12415),” *Transactions of the Institute of British Geographers*, 46(2), 238-254.
 
 ## Book Chapters, Working Papers, Blog Contributions, and Other Publications  
-Franklin, Rachel. (in press). “All Theories Are Wrong but Some Are Useful,” *Dialogues in Human Geography*
+Franklin, Rachel. (2024). “[All Theories Are Wrong but Some Are Useful](https://doi.org/10.1177/20438206241278704),” *Dialogues in Human Geography*
 
 Malleson, Nick, Rachel Franklin, Daniel Arribas-Bel, Tao Cheng, and Mark Birkin. (2024). “[Digital twins on trial: Can they actually solve wicked societal problems and change the world for better?](https://doi.org/10.1177/23998083241262893),” *Environment and Planning B*
 
