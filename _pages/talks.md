@@ -26,6 +26,10 @@ See [CV](/files/CV_Franklin_CURRENT.pdf) for exhaustive list.
 “I Come to Bury Growth, Not to Praise It,” Keynote Address, Regional Studies Association Annual Conference, Santiago de Compostela, Spain, June 5, 2019
 
 ## Invited Presentations and Panels 
+“Mind the Gap: Estimating present and future heat exposure on the London Tube,” METRANS, Sol Price School of Public Policy, University of Southern California, September 25, 2024
+
+“Don’t Panic!,” 2024 Southern California Demographic Workshop, Southern California Association of Governments (SCAG), Los Angeles, California, September 24, 2024
+
 “Sequence Analysis and Clustering Methods for Identifying Left Behind Places,” GIScience Group, Department of Geography, University of Zurich, February 7, 2024
 
 “Spatial Inequality and the Smart City,” Bartlett School of Planning Public Lecture, UCL, London, January 25, 2024
