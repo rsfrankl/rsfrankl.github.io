@@ -16,6 +16,8 @@ Franklin, Rachel S., Eveline S. van Leeuwen, and Antonio Paez, editors. (2018). 
 Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). *GIS and the Social Sciences: Theory and Applications*. London: Routledge.
 
 ## Recent Peer-Reviewed Articles  
+Velthuis, Sanne, Jeroen Royer, Mehdi Le Petit-Guerin, Nicolas Cauchi-Duval, Rachel Franklin, Tim Leibert, Danny MacKinnon, Andy Pike. (2024). “[Regional varieties of ‘left-behindness’ in the EU15](https://doi.org/10.1080/00343404.2024.2417704),” *Regional Studies*
+
 Nelson, Trisalyn, Amy E. Frazier, Peter Kedron, Somayeh Dodge, Bo Zhao, Michael Goodchild, Alan Murray, Sarah Battersby, Lauren Bennett, Justine I. Blanford, Carmen Cabrera-Arnau, Christophe Claramunt, Rachel Franklin, Joseph Holler, Caglar Koylu,  Angela Lee, Steven Manson,  Grant McKenzie, Harvey Miller, Taylor Oshan, Sergio Rey, Francisco Rowe, Seda Şalap-Ayça, Eric Shook, Seth Spielman, Wenfei Xu, and John Wilson. (2024). “[A Research Agenda for GIScience in a Time of Disruptions](https://doi.org/10.1080/13658816.2024.2405191),” *International Journal of Geographical Information Science*
 
 Zied Abozied, Eman, Caitlin Robinson, Rachel Franklin, Kate Court, and Jack Roberts. (2024). "[A spatial decision support framework for equitable sensor network distribution in the smart city](https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1111/geoj.12605)," *The Geographical Journal*
