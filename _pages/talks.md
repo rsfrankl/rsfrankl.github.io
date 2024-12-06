@@ -6,7 +6,11 @@ author_profile: true
 ---
 See [CV](/files/CV_Franklin_CURRENT.pdf) for exhaustive list.
 
-## Conference Keynotes  
+## Invited Leynotes and Lectures
+“Spatial Is Special,” Distinguished Getis Lecture in Spatial Analysis, Department of Geography, San Diego State University, California, November 22, 2024
+
+“21st Century Geographical Methods for Timeless Spatial Inequality Challenges,” Sociotechnical Foundations of GeoAI and Spatial Data Science Workshop, Vienna, Austria, October 26–27, 2024
+
 “The Answer to the Ultimate (Demographic) Question of Life, the Universe, and Everything,” Keynote, IGU Applied Population Geography Research Workshop, University of the Aegean, Lesvos, Greece, September 19, 2023
 
 “The changing data ecosystem in demography. Non‐traditional data sources,” Plenary, with Alice Reid and Andy Tatum, British Society for Population Studies (BSPS) 2022 Conference, Winchester, England, September 5, 2022
