@@ -1,0 +1,30 @@
+---
+title: "Rachel Franklin"
+subtitle: "Population Geographer"
+image: media/headshot_franklin.png
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 10em
+  links:
+  - text: "{{< fa brands bluesky >}}"
+    href: https://bsky.app/profile/rsfrankl.bsky.social
+  - text: "{{< fa brands linkedin >}}"
+    href: https://www.linkedin.com/in/rachelsfranklin/ 
+  - text: "{{< fa brands orcid >}}"
+    href: https://orcid.org/0000-0002-2614-4665
+  - text: "{{< fa brands google-scholar >}}"
+    href: https://scholar.google.co.uk/citations?hl=en&pli=1&user=5D_ebBIAAAAJ
+
+---
+
+I am Professor of Geographical Analysis in the [Centre for Urban and Regional Development Studies (CURDS)](https://www.ncl.ac.uk/curds/) and the [School of Geography, Politics and Sociology](https://www.ncl.ac.uk/gps/geography/) at Newcastle University and the Group Leader for Liveability in the [Science of Cities and Regions Programme](https://www.turing.ac.uk/research/research-programmes/urban-analytics) at the [Alan Turing Institute](https://www.turing.ac.uk). In addition, I am the academic lead for Newcastle at the Turing Institute and a former Fellow. Alongside these roles, I am the Head of Newcastle Data, one of the University's centres of research excellence and the focal point for managing our strategic priority in data, data science, and AI. I was recruited to Newcastle in 2018 to help expand our international, cross-disciplinary reputation in Spatial Analytics and Modeling.
+
+My primary research focus is in spatial demography and the interplay between spatial analytics and demographic change, in particular quantifying patterns, sources and impacts of spatial inequality. Current and recent projects, for example, study ["Left Behind" places](https://research.ncl.ac.uk/beyondleftbehindplaces/aboutourproject/), the ways in which [smart city infrastructures can reinforce existing inequalities](https://www.turing.ac.uk/research/research-projects/spatial-inequality-and-smart-city), and the role of spatial scale and context in understanding the manifestation and impacts of depopulation across neighborhoods, cities, and regions. I also maintain an ongoing interest in pedagogy, especially the teaching of methods. I have taught spatial analysis, GIS, and quantitative methods for almost 20 years, with a pedagogic orientation towards policy applications and the social sciences and humanities. I am co-editor of a recent Elgar [Handbook of Spatial Analysis in the Social Sciences](https://www.e-elgar.com/shop/usd/handbook-of-spatial-analysis-in-the-social-sciences-9781789903935.html), with Serge Rey, and co-author of a [textbook](https://www.routledge.com/GIS-and-the-Social-Sciences-Theory-and-Applications/Ballas-Clarke-Franklin-Newing/p/book/9781138785120) aimed at teaching GIS for the social sciences.
+
+I am the current editor of the journal, [*Geographical Analysis*](https://onlinelibrary.wiley.com/journal/15384632), co-editor of [*Spatial Economic Analysis*](https://www.tandfonline.com/journals/rsea20), previous book review editor of the *Journal of Regional Science*, and a member of the editorial boards of several journals, including *Population, Space and Place*, *Annals of the American Association of Geographers (AAG)*, *Journal of Regional Science*, *Journal of Geographical Systems* (and lots more). For eight years (2010–2018) I was the Associate Director of the Spatial Structures in the Social Sciences (S4) initiative at Brown University in the U.S. and also held an academic appointment in Population Studies. Other professional experience includes the U.S. Census Bureau and the American Association of Geographers (AAG).
+
+I do other stuff too. With [Daniel Arribas-Bel](https://darribas.org) and [Levi Wolf](https://www.ljwolf.org), I am the co-host of the [GLaD Podcast](https://gladpodcast.podbean.com) – Geography, Life and Data – supported by the Science of Cities and Regions Programme at the Alan Turing Institute. The podcast is an outgrowth of our pandemic-era [Spatial Analytics + Data (SAD)](https://www.youtube.com/channel/UCcf3cdwC1c-1w4Oq0J9yNIg?app=desktop&cbrd=1) seminar and interview series. I also have a [newsletter](https://rachelfranklin.substack.com), which tends to be equal parts professional and personal.
+
+I received my PhD in Geography from the University of Arizona (2004). My previous degrees are from Indiana University: BA in French and Political Science and MA in West European Studies.

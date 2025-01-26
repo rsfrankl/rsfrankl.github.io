@@ -1,0 +1,82 @@
+---
+title: "Publications"
+css: /Styles/website_styles.scss
+---
+
+See [CV](media/CV_Franklin_CURRENT.pdf) for exhaustive list.
+
+### Books
+
+Rey, Sergio and Rachel S. Franklin, editors. (2022). *Handbook of Spatial Analysis in the Social Sciences*, Elgar.
+
+Franklin, Rachel S., editor. (2019). *Population, Place, and Spatial Interaction: Essays in Honor of David Plane*. Springer.
+
+Franklin, Rachel S., Eveline S. van Leeuwen, and Antonio Paez, editors. (2018). *Population Loss: The Role of Transportation and Other Issues*. Elsevier.
+
+Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). *GIS and the Social Sciences: Theory and Applications*. London: Routledge.
+
+### Recent Peer-Reviewed Articles
+
+Velthuis, Sanne, Jeroen Royer, Mehdi Le Petit-Guerin, Nicolas Cauchi-Duval, Rachel Franklin, Tim Leibert, Danny MacKinnon, Andy Pike. (2024). “[Regional varieties of ‘left-behindness’ in the EU15](https://doi.org/10.1080/00343404.2024.2417704),” *Regional Studies*
+
+Nelson, Trisalyn, Amy E. Frazier, Peter Kedron, Somayeh Dodge, Bo Zhao, Michael Goodchild, Alan Murray, Sarah Battersby, Lauren Bennett, Justine I. Blanford, Carmen Cabrera-Arnau, Christophe Claramunt, Rachel Franklin, Joseph Holler, Caglar Koylu, Angela Lee, Steven Manson, Grant McKenzie, Harvey Miller, Taylor Oshan, Sergio Rey, Francisco Rowe, Seda Şalap-Ayça, Eric Shook, Seth Spielman, Wenfei Xu, and John Wilson. (2024). “[A Research Agenda for GIScience in a Time of Disruptions](https://doi.org/10.1080/13658816.2024.2405191),” *International Journal of Geographical Information Science*
+
+Zied Abozied, Eman, Caitlin Robinson, Rachel Franklin, Kate Court, and Jack Roberts. (2024). "[A spatial decision support framework for equitable sensor network distribution in the smart city](https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1111/geoj.12605)," *The Geographical Journal*
+
+Houlden, Victoria, Caitlin Robinson, Rachel Franklin, Francisco Rowe, and Andy Pike. (2024). "[Left Behind Neighbourhoods in England: Where They Are and Why They Matter](https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1111/geoj.12583)," *The Geographical Journal*
+
+Wu, Yu-Tzu, Nutthida Kitwiroon, Sean Beevers, Benjamin Barratt, Carol Brayne, Ester Cerin, Rachel Franklin, Vikki Houlden, Bob Woods, Eman Zied Abozied, Matthew Prina, and Fiona Matthews. (2024). "[The longitudinal associations between ambient air pollution exposure and dementia in the UK: results from the cognitive function and ageing study II and Wales](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-18723-3#)," *BMC Public Health*
+
+Sanderson, Rachael, Rachel Franklin, Danny MacKinnon, and Joe Matthews. (2024). “[Left Out and Invisible?: Exploring Social Media Representation of ‘Left Behind Places’](https://link.springer.com/article/10.1007/s10708-024-11010-z),” *GeoJournal*
+
+Franklin, Rachel. (2023). "[Quantitative Methods III: Strength in Numbers?](https://journals.sagepub.com/doi/10.1177/03091325231210512)," *Progress in Human Geography*
+
+Sanderson, Rachael, Rachel Franklin, Danny MacKinnon, and Joe Matthews. (2023). "[Left behind and left out: Evaluating (dis)connections in the spatially focused migration network of England and Wales](https://onlinelibrary.wiley.com/doi/full/10.1002/psp.2722)," *Population, Space and Place*
+
+Park, Gainbi and Rachel Franklin. (2023). “[The Changing Demography of Hurricane At-Risk Areas in the United States (1970–2018)](https://doi.org/10.1002/psp.2685),” *Population, Space and Place*
+
+Pike, Andy, Vincent Béal, Nicolas Cauchi-Duval, Rachel Franklin, Nadir Kinossian, Thilo Lang, Tim Leibert, Danny MacKinnon, Max Rousseau, Jeroen Royer, Loris Servillo, John Tomaney, and Sanne Velthuis. (2023). “['Left behind places': A geographical etymology](https://doi.org/10.1080/00343404.2023.2167972),” *Regional Studies*
+
+Franklin, Rachel. (2023). "[Quantitative methods II: Big theory](https://journals.sagepub.com/doi/full/10.1177/03091325221137334)," *Progress in Human Geography*
+
+Robinson, Caitlin, Rachel S. Franklin, and Jack Roberts. (2022). “[Optimising for equity: Sensor coverage, networks and the responsive city](https://doi.org/10.1080/24694452.2022.2077169),” *The Annals of the American Association of Geographers*.
+
+Wallace, Rosalind, Rachel Franklin, Susan Grant-Muller, Alison Heppenstall, and Victoria Houlden. (2022). "[Estimating the social and spatial impacts of Covid mitigation strategies in United Kingdom regions: synthetic data and dashboards](https://doi.org/10.1093/cjres/rsac019)," *Cambridge Journal of Regions, Economy and Society*.
+
+Wu, Yu-Tzu, Andrew Kingston, Victoria Houlden, and Rachel Franklin. (2022). “[The longitudinal associations between proximity to local grocery shops and functional ability in the very old living with and without multimorbidity: results from the Newcastle 85+ study](https://doi.org/10.1016/j.archger.2022.104703)," *Archives of Gerontology and Geriatrics*.
+
+Franklin, Rachel S., Elizabeth C. Delmelle, Clio Andris, Tao Cheng, Somayeh Dodge, Janet Franklin, Alison Heppenstall, Mei-Po Kwan, WenWen Li, Sara McLafferty, Jennifer A. Miller, Darla K. Munroe, Trisalyn Nelson, Özge Öner, Denise Pumain, Kathleen Stewart, Daoqin Tong, Elizabeth A. Wentz. (2022). “[Making Space in Geographical Analysis](https://doi.org/10.1111/gean.12325)," *Geographical Analysis*.
+
+Franklin, Rachel. (2022). "[Quantitative methods I: Reckoning with uncertainty](https://doi.org/10.1177/03091325211063635)," *Progress in Human Geography*
+
+Robinson, Caitlin and Rachel S. Franklin. (2021). “[The sensor desert quandary: What does it mean (not) to count in the smart city?](https://doi.org/10.1111/tran.12415),” *Transactions of the Institute of British Geographers*, 46(2), 238-254.
+
+### Book Chapters, Working Papers, Blog Contributions, and Other Publications
+
+Franklin, Rachel. (2024). “[All Theories Are Wrong but Some Are Useful](https://doi.org/10.1177/20438206241278704),” *Dialogues in Human Geography*
+
+Malleson, Nick, Rachel Franklin, Daniel Arribas-Bel, Tao Cheng, and Mark Birkin. (2024). “[Digital twins on trial: Can they actually solve wicked societal problems and change the world for better?](https://doi.org/10.1177/23998083241262893),” *Environment and Planning B*
+
+Franklin, Rachel. (2024). "[Not the Data Revolution We Want, but Maybe the Data Revolution We Need](https://open.substack.com/pub/rachelfranklin/p/not-the-data-revolution-we-want-but?r=3xp53&utm_campaign=post&utm_medium=web)," SubStack Newsletter
+
+Franklin, Rachel. (2023). "[Waking Up Early to Ponder the Future of Urban Analytics](https://open.substack.com/pub/rachelfranklin/p/waking-up-early-to-ponder-the-future?r=3xp53&utm_campaign=post&utm_medium=web)," SubStack Newsletter
+
+Royer, Jeroen, Sanne Velthuis, Mehdi Le Petit-Guerin, Rachel S. Franklin, Tim Leibert, Nicolas Cauchi-Duval, Danny MacKinnon, and Andy Pike. (2022). “[Regional travel times to services of general interest in the EU15](https://research.ncl.ac.uk/beyondleftbehindplaces/publicationsanddownloads/Working%20Paper%20-%20Regional%20Travel%20Times.pdf),” CURDS Working Paper, DOI: 10.31235/osf.io/c2bvh
+
+Velthuis, Sanne, Jeroen Royer, Mehdi Le Petit-Guerin, Nicolas Cauchi-Duval, Rachel S. Franklin, Tim Leibert, Danny MacKinnon, and Andy Pike. (2022). “[Geographically uneven structural change in EU15 regions from 1980 to 2017: a cluster analysis](https://research.ncl.ac.uk/beyondleftbehindplaces/publicationsanddownloads/Working%20Paper%20-%20Economic%20Restructuring%20Cluster%20Analysis.pdf),” CURDS Working Paper, DOI: 10.31235/osf.io/xsgf9
+
+Franklin, Rachel S. (2021). “[Introduction to the Fiftieth Anniversary Special Issue: Happy Birthday, Geographical Analysis!](https://doi.org/10.1111/gean.12270),” *Geographical Analysis*, 53(1), 3-12.
+
+Franklin, Rachel S. and Jacques Poot. (2021). “[Guest Editorial: Spatial demography in regional science](https://doi.org/10.1007/s10109-021-00354-6),” *Journal of Geographical Systems*, 23(2), 139-141.
+
+Franklin, Rachel S. (2020). “[Why We Count: Geographers and the US Decennial Census](https://u.osu.edu/geographyblog/2020/10/14/why-we-count-geographers-and-the-us-decennial-census/),” Ohio State University, Department of Geography, Census 2020 Blog Series.
+
+Franklin, Rachel S. (2019). “[Interpreting the Geography of Human Capital Stock Variations](https://doi.org/10.1007/978-981-13-9231-3_5),” *Population, Place, and Spatial Interaction: Essays in Honor of David Plane*. Springer.
+
+Franklin, Rachel S. (2 April 2019). “[What We Talk About When We Talk About Depopulation](https://blog.regionalstudies.org/what-we-talk-about-when-we-talk-about-depopulation/),” The Regional Studies Blog.
+
+Franklin, Rachel S., Eveline van Leeuwen, and Antonio Paez. (2018). “[Transportation Where People Leave: An Introduction](https://doi.org/10.1016/bs.atpp.2018.09.008),” *Population Loss: The Role of Transportation and Other Issues*, Rachel S. Franklin, Eveline van Leeuwen, and Antonio Paez, eds., Elsevier.
+
+Franklin, Rachel S. (2017). “[Shrinking Smart: U.S. Population Decline and Footloose Human Capital](https://www.researchgate.net/profile/Rachel-Franklin-6/publication/320234130_Shrinking_Smart_US_Population_Decline_and_Footloose_Human_Capital/links/61ec1c4cc5e3103375b25b4a/Shrinking-Smart-US-Population-Decline-and-Footloose-Human-Capital.pdf),” *Demographic Transition, Labour Markets and Regional Resilience*, Cristina Martinez, Tamara Weyman, and Jouke van Dijk, eds., Springer.
+
+Franklin, Rachel S. and David A. Plane. (2017). “The View from Over the Hill: Regional Research in a Post–Demographic Transition World,” *Regional Research Frontiers: The Next 50 Years*, Randall Jackson and Peter Schaeffer, eds., Springer. doi.org/10.1007/978-3-319-50547-3_20.

@@ -1,0 +1,9 @@
+---
+title: "Practicing Geographer 2.0"
+listing: 
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  feed: true
+---

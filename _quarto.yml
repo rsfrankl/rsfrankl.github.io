@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+
+website:
+  open-graph: true
+  title: "Practicing Geographer"
+  site-url: https://www.rsfrankl.github.io/posts
+  description: "Rachel Franklin--Practicing Geographer"
+  navbar:
+    search: true
+    left:
+      - href: posts.qmd
+        text: "blog"
+      - href: Pages/research.qmd
+        text: "research"
+      - href: Pages/teaching.qmd
+        text: "teaching"
+      - href: Pages/publications.qmd
+        text: "publications"
+      - href: Pages/talks.qmd
+        text: "talks"
+      - href: Pages/cv.qmd
+        text: "cv"
+    right:
+      - text: "{{< fa envelope-open >}}"
+        href: mailto:rachel.s.franklin@gmail.com
+      - text: "{{< fa rss >}}"
+        href: posts.xml
+      - text: "{{< fa brands github >}}"
+        href: https://github.com/rsfrankl
+  page-footer:
+    left: "Rachel Franklin, copyright 2025"
+    right: "Built with brute force {{< fa dumbbell >}} and [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [Default, Styles/website_styles.scss]
+    mainfont: Quicksand
+    toc: true
+    page-layout: full
+
+editor: visual
+

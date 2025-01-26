@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Practicing Geographer</title>
+<link>https://www.rsfrankl.github.io/posts/posts.html</link>
+<atom:link href="https://www.rsfrankl.github.io/posts/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Rachel Franklin--Practicing Geographer</description>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Sun, 26 Jan 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Hello (2025) World</title>
+  <dc:creator>Rachel Franklin</dc:creator>
+  <link>https://www.rsfrankl.github.io/posts/posts/helloworld/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://www.rsfrankl.github.io/posts/posts/helloworld/practicing_geographer2.jpg" class="img-fluid" style="width:30.0%"></p>
+<p>Hello world! Time to update my website and taking the opportunity to consolidate my newsletter/blog activity here. Let’s see how it goes. If you’re used to finding me on <a href="https://rachelfranklin.substack.com">SubStack</a>, this is (I think?) the place to find me in the future.</p>
+<p><i class="fa-solid fa-champagne-glasses fa-3x" aria-label="champagne-glasses"></i></p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{franklin2025,
+  author = {Franklin, Rachel},
+  title = {Hello (2025) {World}},
+  date = {2025-01-26},
+  url = {https://rsfrankl.github.io/posts/helloworld/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-franklin2025" class="csl-entry quarto-appendix-citeas">
+Franklin, Rachel. 2025. <span>“Hello (2025) World.”</span> January 26,
+2025. <a href="https://rsfrankl.github.io/posts/helloworld/">https://rsfrankl.github.io/posts/helloworld/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://www.rsfrankl.github.io/posts/posts/helloworld/</guid>
+  <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://www.rsfrankl.github.io/posts/posts/helloworld/practicing_geographer2.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

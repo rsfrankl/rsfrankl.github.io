@@ -1,0 +1,16 @@
+---
+title: "Hello (2025) World"
+description: "New year, new website, new blog home"
+date: 26 January 2025
+categories: []
+citation: 
+  url: https://rsfrankl.github.io/posts/helloworld/ 
+image: practicing_geographer2.jpg
+draft: false
+---
+
+![](practicing_geographer2.jpg){width="30%"}
+
+Hello world! Time to update my website and taking the opportunity to consolidate my newsletter/blog activity here. Let's see how it goes. If you're used to finding me on [SubStack](https://rachelfranklin.substack.com), this is (I think?) the place to find me in the future.
+
+{{< fa champagne-glasses size=3x >}}

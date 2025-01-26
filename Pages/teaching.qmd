@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+css: /Styles/website_styles.scss
+---
+
+I teach mostly methods—spatial, quantitative, and demographic. I am a firm believer that all students, regardless of background, can become confident and proficient producers, consumers, and interpreters of quantitative or analytical analysis. Over the past 20 years, I have taught in a Policy School at the University of Maryland, in Sociology at Brown University, and, most recently, in Geography at Newcastle University. I have also taught short courses for students and faculty at Brown, in Lesvos, Greece, and at the Gran Sasso Science Institute (GSSI) and the University of Sassari, in Italy. For additional detail on my teaching, please see my [CV](/files/CV_Franklin_CURRENT.pdf)!
+
+## Current and Recent Courses:
+
+### Mapping the City (Newcastle University)
+
+This course is designed for final-year undergraduates. It presents the study of cities from a spatial analytic perspective, drawing on theory and concepts from both urban and social geography. Major concepts focus on urban development and change, the socio-demographic fabric of the city, and accessibility and spatial inequality, both within and across cities. These concepts are engaged with through GIS, spatial analytics, and visualization, with the aim of developing enlightened producers and consumers of urban research, policy, and analytics. Specifically, we cover principles of GIS, cartography, and spatial analytics through engagement with the key urban topics identified above.
+
+### [GIS Short Course: Data Visualization and Mapping (GSSI)](https://www.rachelfranklin.org/GIS_capsule_course/)
+
+This short course introduces students to the fundamentals of GIS: locating, importing, and visualizing spatial data, as well as common spatial analysis methods and approaches. Each day’s instruction is organized around short lectures, complemented by hands-on computer activities that provide practice working with the data, the software, and the methods. Students will select a mini-project (progettino!) that allows them to apply the skills they’ve learned, with brief presentations on the final afternoon.
