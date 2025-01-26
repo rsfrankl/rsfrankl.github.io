@@ -13,12 +13,12 @@ $green: #E3EABE;
 $cream: #FFFFF0;
 
 // Base document colors
-$navbar-bg: $yellow; // navbar
+$navbar-bg: $pink; // navbar
 $sidebar-bg: $cream; //sidebar
 $sidebar-hl: $pink; // highlight color when hovering over sidebar links
 $sidebar-fg: $black; // sidebar foreground elements
-$navbar-fg: $black; // navbar foreground elements
-$navbar-hl: $pink; // highlight color when hovering over navbar links
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $yellow; // highlight color when hovering over navbar links
 $body-bg: $cream; // page background 
 $body-color: $black; // page text 
 $footer-bg: $cream; // footer 
@@ -43,7 +43,7 @@ $border-color: $cream; //border between two columns on landing page
 .navbar {
   height: 100px;
   font-size: 23px;
-  box-shadow: 0 0 40px $yellow;
+  box-shadow: 0 0 40px $pink;
 }
 
 .about-image {
