@@ -3,7 +3,7 @@ title: "Talks"
 css: /Styles/website_styles.scss
 ---
 
-See [CV](media/CV_Franklin_CURRENT.pdf) for exhaustive list.
+See [CV](/media/CV_Franklin_CURRENT.pdf) for exhaustive list.
 
 ### Invited Leynotes and Lectures
 

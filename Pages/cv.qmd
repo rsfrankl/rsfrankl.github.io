@@ -3,7 +3,7 @@ title: "CV"
 css: /Styles/website_styles.scss
 ---
 
-Recent (full) CV available [here](media/CV_Franklin_CURRENT.pdf) for download.
+Recent (full) CV available [here](/media/CV_Franklin_CURRENT.pdf) for download.
 
 ## Education
 
