@@ -24,8 +24,6 @@ $body-color: $black; // page text
 $footer-bg: $cream; // footer 
 $link-color: $pink; // hyperlinks 
 $border-color: $cream; //border between two columns on landing page
-$dropdown-bg: $pink; // navbar for mobile
-
 
 /*-- scss:rules --*/
 
@@ -41,8 +39,12 @@ $dropdown-bg: $pink; // navbar for mobile
 
 .navbar {
   height: 100px;
-  font-size: 23px;
+  font-size: 20px;
   box-shadow: 0 0 40px $pink;
+}
+
+.navbar-collapse {
+  background-color: $pink;
 }
 
 .about-image {
