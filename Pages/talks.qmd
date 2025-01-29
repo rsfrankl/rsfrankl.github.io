@@ -5,7 +5,7 @@ css: /Styles/website_styles.scss
 
 See [CV](/media/CV_Franklin_CURRENT.pdf) for exhaustive list.
 
-### Invited Leynotes and Lectures
+### Invited Keynotes and Lectures
 
 “Spatial Is Special,” Distinguished Getis Lecture in Spatial Analysis, Department of Geography, San Diego State University, California, November 22, 2024
 
@@ -30,6 +30,8 @@ See [CV](/media/CV_Franklin_CURRENT.pdf) for exhaustive list.
 “I Come to Bury Growth, Not to Praise It,” Keynote Address, Regional Studies Association Annual Conference, Santiago de Compostela, Spain, June 5, 2019
 
 ### Invited Presentations and Panels
+
+“Five Red Herrings: The Role of Data, Data Science, and AI in Population Health Research,” Population Health Sciences Institute (PHSI) Christmas Research Event, Newcastle University, December 11, 2024
 
 “Mind the Gap: Estimating present and future heat exposure on the London Tube,” METRANS, Sol Price School of Public Policy, University of Southern California, September 25, 2024
 
