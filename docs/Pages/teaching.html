@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.40">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-6a93ff60bef293ea7b2d93b57dc1e70e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -147,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#current-and-recent-courses" id="toc-current-and-recent-courses" class="nav-link active" data-scroll-target="#current-and-recent-courses">Current and Recent Courses:</a>
+  <li><a href="#recent-teaching" id="toc-recent-teaching" class="nav-link active" data-scroll-target="#recent-teaching">Recent Teaching:</a>
   <ul class="collapse">
   <li><a href="#mapping-the-city-newcastle-university" id="toc-mapping-the-city-newcastle-university" class="nav-link" data-scroll-target="#mapping-the-city-newcastle-university">Mapping the City (Newcastle University)</a></li>
   <li><a href="#gis-short-course-data-visualization-and-mapping-gssi" id="toc-gis-short-course-data-visualization-and-mapping-gssi" class="nav-link" data-scroll-target="#gis-short-course-data-visualization-and-mapping-gssi">GIS Short Course: Data Visualization and Mapping (GSSI)</a></li>
@@ -177,9 +177,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I teach mostly methods—spatial, quantitative, and demographic. I am a firm believer that all students, regardless of background, can become confident and proficient producers, consumers, and interpreters of quantitative or analytical analysis. Over the past 20 years, I have taught in a Policy School at the University of Maryland, in Sociology at Brown University, and, most recently, in Geography at Newcastle University. I have also taught short courses for students and faculty at Brown, in Lesvos, Greece, and at the Gran Sasso Science Institute (GSSI) and the University of Sassari, in Italy. For additional detail on my teaching, please see my <a href="../media/CV_Franklin_CURRENT.pdf">CV</a>!</p>
-<section id="current-and-recent-courses" class="level2">
-<h2 class="anchored" data-anchor-id="current-and-recent-courses">Current and Recent Courses:</h2>
+<p>I teach mostly methods—spatial, quantitative, and demographic. I am a firm believer that all students, regardless of background, can become confident and proficient producers, consumers, and interpreters of quantitative and spatial analysis. Over the past 20 years, I have taught in a Policy School at the University of Maryland, in Sociology at Brown University, and, most recently, in Geography at Newcastle University. I have also taught short courses for students and faculty at Brown, in Lesvos, Greece, and at the Gran Sasso Science Institute (GSSI) and the University of Sassari, in Italy. For additional detail on my teaching, please see my <a href="../media/CV_Franklin_CURRENT.pdf">CV</a>!</p>
+<section id="recent-teaching" class="level2">
+<h2 class="anchored" data-anchor-id="recent-teaching">Recent Teaching:</h2>
 <section id="mapping-the-city-newcastle-university" class="level3">
 <h3 class="anchored" data-anchor-id="mapping-the-city-newcastle-university">Mapping the City (Newcastle University)</h3>
 <p>This course is designed for final-year undergraduates. It presents the study of cities from a spatial analytic perspective, drawing on theory and concepts from both urban and social geography. Major concepts focus on urban development and change, the socio-demographic fabric of the city, and accessibility and spatial inequality, both within and across cities. These concepts are engaged with through GIS, spatial analytics, and visualization, with the aim of developing enlightened producers and consumers of urban research, policy, and analytics. Specifically, we cover principles of GIS, cartography, and spatial analytics through engagement with the key urban topics identified above.</p>
@@ -275,6 +275,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -385,6 +387,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

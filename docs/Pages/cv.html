@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.40">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-6a93ff60bef293ea7b2d93b57dc1e70e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -150,6 +150,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
   <li><a href="#appointments" id="toc-appointments" class="nav-link" data-scroll-target="#appointments">Appointments</a>
   <ul class="collapse">
+  <li><a href="#harvard-university" id="toc-harvard-university" class="nav-link" data-scroll-target="#harvard-university"><strong>Harvard University</strong></a></li>
   <li><a href="#newcastle-university" id="toc-newcastle-university" class="nav-link" data-scroll-target="#newcastle-university"><strong>Newcastle University</strong></a></li>
   <li><a href="#the-alan-turing-institute" id="toc-the-alan-turing-institute" class="nav-link" data-scroll-target="#the-alan-turing-institute"><strong>The Alan Turing Institute</strong></a></li>
   <li><a href="#brown-university" id="toc-brown-university" class="nav-link" data-scroll-target="#brown-university"><strong>Brown University</strong></a></li>
@@ -194,17 +195,23 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="appointments" class="level2">
 <h2 class="anchored" data-anchor-id="appointments">Appointments</h2>
+<section id="harvard-university" class="level3">
+<h3 class="anchored" data-anchor-id="harvard-university"><strong>Harvard University</strong></h3>
+<ul>
+<li><strong>Executive Director</strong>, Center for Geographic Analysis (CGA), 2025–present</li>
+</ul>
+</section>
 <section id="newcastle-university" class="level3">
 <h3 class="anchored" data-anchor-id="newcastle-university"><strong>Newcastle University</strong></h3>
 <ul>
-<li><strong>Professor of Geographical Analysis</strong>, Centre for Urban and Regional Development Studies (CURDS), School of Geography, Politics and Sociology, 2018–present</li>
+<li><strong>Professor of Geographical Analysis</strong>, Centre for Urban and Regional Development Studies (CURDS), School of Geography, Politics and Sociology, 2018–2025</li>
 <li><strong>Head</strong>, Newcastle Data, February 2022–2025</li>
 </ul>
 </section>
 <section id="the-alan-turing-institute" class="level3">
 <h3 class="anchored" data-anchor-id="the-alan-turing-institute"><strong>The Alan Turing Institute</strong></h3>
 <ul>
-<li><strong>Group Leader – Liveability</strong>, Science of Cities and Regions Programme (SoCaR), 2023–present</li>
+<li><strong>Group Leader – Liveability</strong>, Science of Cities and Regions Programme (SoCaR), 2023–2025</li>
 <li><strong>University Lead – Newcastle</strong>, 2021–2023</li>
 </ul>
 </section>
@@ -241,7 +248,8 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="visiting-academic-appointments" class="level2">
 <h2 class="anchored" data-anchor-id="visiting-academic-appointments">Visiting Academic Appointments</h2>
-<p><strong>Visiting Scholar</strong>, Population Studies, Brown University, 2018–present<br>
+<p><strong>Visiting Professor</strong>, Newcastle University, UK, 2025–2026<br>
+<strong>Visiting Scholar</strong>, Population Studies, Brown University, 2018–2025<br>
 <strong>Visiting Professor</strong>, Gran Sasso Science Institute (GSSI), Italy, 2018–present<br>
 <strong>Visiting Professor</strong>, University of Sassari, Sardinia, Italy, November 2019</p>
 </section>
@@ -345,6 +353,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -455,6 +465,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
