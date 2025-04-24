@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.43">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-d4d76bf8491c20bad77d141916dc28e1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-6a93ff60bef293ea7b2d93b57dc1e70e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -95,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="../posts.html"> 
-<span class="menu-text">blog</span></a>
+<span class="menu-text">notes</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../Pages/research.html"> 
@@ -192,6 +192,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="invited-presentations-and-panels" class="level3">
 <h3 class="anchored" data-anchor-id="invited-presentations-and-panels">Invited Presentations and Panels</h3>
+<p>“AI and Data Innovations for Liveable Cities,” AI and Data Innovation for Sustainability and Infrastructure Conference, Singapore, April 2, 2025</p>
 <p>“Smart but Unequal?: Sensor Infrastructure in the Smart City,” City Seminar Series, University of Cambridge, February 25, 2025</p>
 <p>“Five Red Herrings: The Role of Data, Data Science, and AI in Population Health Research,” Population Health Sciences Institute (PHSI) Christmas Research Event, Newcastle University, December 11, 2024</p>
 <p>“Mind the Gap: Estimating present and future heat exposure on the London Tube,” METRANS, Sol Price School of Public Policy, University of Southern California, September 25, 2024</p>
@@ -212,6 +213,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="recent-conference-presentations" class="level3">
 <h3 class="anchored" data-anchor-id="recent-conference-presentations">Recent Conference Presentations</h3>
+<p>“Landscape of Loss: A Spatiotemporal Contextual Approach to Measuring U.S. County-Level Depopulation,” (co-authored with Gainbi Park and Eric Seymour), Population Association of America (PAA) Annual Meeting, Washington, DC, April 10–13, 2025.</p>
 <p>“Lost in transition? Trajectories of regional ‘left-behindness’ in the EU15 from 1982 to 2017,” (co-authored with Mehdi Le Petit-Guerin, Sanne Velthuis, Jeroen Royer, Nicolas Cauchi-Duval, Tim Leibert, Danny MacKinnon, and Andy Pike), Annual Meeting of the Association of American Geographers, Denver, CO, March 23–27, 2023</p>
 <p>“Get Smart: Helping cities be intelligent about sensor placement,” Alan Turing Institute, AIUK Smart Cities Session, September 28, 2020 (virtual)</p>
 <p>“Depopulation and the Demographic Components of Change: Exploring the Connections in a United States Context,” (co-authored with Eric Seymour and Will Violette) 59th European Congress of the Regional Science Association International, Lyon, France, August 27–30, 2019</p>
@@ -305,8 +307,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -417,7 +417,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
