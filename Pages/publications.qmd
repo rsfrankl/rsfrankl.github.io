@@ -17,6 +17,16 @@ Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). *G
 
 ### Recent Peer-Reviewed Articles
 
+Liu, Lingbo, Rachel Franklin, Jiaee Cheong, Tianyue Cong, Jin Soo Byun, Allie Yubin Oh, and John Torous. (2025) "[H3-MOSAIC: multimodal generative AI for semantic place detection from high-frequency GPS on H3 grids in mental health geomatics](https://doi.org/10.1186/s12942-025-00423-9)," International Journal of Health Geographics 24, no. 1 (2025): 35.
+
+Wu, Yu-Tzu, Sean Beevers, Benjamin Barratt, Carol Braynec, Ester Cerin, Rachel Franklin, Victoria Houlden, Bob Woods, Eman Zied Abozied, Matthew Prina, Fiona Matthews. (2025). “[The longitudinal relationships between the built and natural environment, air pollution, noise and dementia: results from two UK-based cohort studies](https://doi.org/10.1016/j.ypmed.2025.108348),” *Preventive Medicine*
+
+Park, Gainbi, Rachel Franklin, Sally Hardy, Simona Iammarino, and Jessie P.H. Poon. (2025). “[Mind the Gap: Gender, Geography, and the Effects of the COVID-19 Pandemic on Publication in Regional Studies Association Journals](https://doi.org/10.1080/00343404.2025.2485131),” *Regional Studies*
+
+Frazier, Amy E., Trisalyn Nelson, Peter Kedron, Eric Shook, Somayeh Dodge, Alan Murray, Michael Goodchild, Sarah Battersby, Justine I. Blanford, Christophe Claramunt, Joseph Holler, Caglar Koylu, Angela Lee, Steven Manson, Seda Şalap-Ayça, John P. Wilson, Bo Zhao, Lauren Bennett, Carmen Cabrera, Rachel Franklin, Grant McKenzie, Harvey Miller, Taylor Oshan, Sergio Rey, Francisco Rowe, Seth Spielman, Wenfei Xu. (2025). “[Rethinking GIScience Education in an Age of Disruptions](https://doi.org/10.1111/tgis.70048),” *Transactions in GIS*
+
+Le Petit-Guerin, Mehdi, Sanne Velthuis, Jeroen Royer, Nicolas Cauchi-Duval, Rachel Franklin, Tim Leibert, Danny MacKinnon, and Andy Pike. (2025). “[Trajectories of regional ‘left-behindness’ in the EU15 from 1982 to 2017](https://www.degruyterbrill.com/document/doi/10.1515/zfw-2023-0068/html),” *Advances in Economic Geography (ZFW)*
+
 Velthuis, Sanne, Jeroen Royer, Mehdi Le Petit-Guerin, Nicolas Cauchi-Duval, Rachel Franklin, Tim Leibert, Danny MacKinnon, Andy Pike. (2024). “[Regional varieties of ‘left-behindness’ in the EU15](https://doi.org/10.1080/00343404.2024.2417704),” *Regional Studies*
 
 Nelson, Trisalyn, Amy E. Frazier, Peter Kedron, Somayeh Dodge, Bo Zhao, Michael Goodchild, Alan Murray, Sarah Battersby, Lauren Bennett, Justine I. Blanford, Carmen Cabrera-Arnau, Christophe Claramunt, Rachel Franklin, Joseph Holler, Caglar Koylu, Angela Lee, Steven Manson, Grant McKenzie, Harvey Miller, Taylor Oshan, Sergio Rey, Francisco Rowe, Seda Şalap-Ayça, Eric Shook, Seth Spielman, Wenfei Xu, and John Wilson. (2024). “[A Research Agenda for GIScience in a Time of Disruptions](https://doi.org/10.1080/13658816.2024.2405191),” *International Journal of Geographical Information Science*
@@ -49,11 +59,11 @@ Franklin, Rachel S., Elizabeth C. Delmelle, Clio Andris, Tao Cheng, Somayeh Dodg
 
 Franklin, Rachel. (2022). "[Quantitative methods I: Reckoning with uncertainty](https://doi.org/10.1177/03091325211063635)," *Progress in Human Geography*
 
-Robinson, Caitlin and Rachel S. Franklin. (2021). “[The sensor desert quandary: What does it mean (not) to count in the smart city?](https://doi.org/10.1111/tran.12415),” *Transactions of the Institute of British Geographers*, 46(2), 238-254.
-
 ### Book Chapters, Working Papers, Blog Contributions, and Other Publications
 
-Franklin, Rachel. (2024). “[All Theories Are Wrong but Some Are Useful](https://doi.org/10.1177/20438206241278704),” *Dialogues in Human Geography*
+Potts, Shaina, Rachel Franklin, Jamie Peck, Anthony Robinson, Matthew W. Wilson, Matthew Zook, Dariusz Wójcik, James Cheshire, and Julien Migozzi. (2025). [Book review of “Atlas of Finance: Mapping the Global Story of Money](doi:10.1080/2325548X.2025.2539496),” by Dariusz Wójcik, Panagiotis Iliopoulos, Stefanos Ioannou, Liam Keenan, Julien Migozzi, Timothy Monteath, Vladimir Pazitka, Morag Torrance, and Michael Urban, The AAG Review of Books, August, 1–13.
+
+Franklin, Rachel. (2025). “[All Theories Are Wrong but Some Are Useful](https://doi.org/10.1177/20438206241278704),” *Dialogues in Human Geography*
 
 Malleson, Nick, Rachel Franklin, Daniel Arribas-Bel, Tao Cheng, and Mark Birkin. (2024). “[Digital twins on trial: Can they actually solve wicked societal problems and change the world for better?](https://doi.org/10.1177/23998083241262893),” *Environment and Planning B*
 
@@ -64,9 +74,3 @@ Franklin, Rachel. (2023). "[Waking Up Early to Ponder the Future of Urban Analyt
 Royer, Jeroen, Sanne Velthuis, Mehdi Le Petit-Guerin, Rachel S. Franklin, Tim Leibert, Nicolas Cauchi-Duval, Danny MacKinnon, and Andy Pike. (2022). “[Regional travel times to services of general interest in the EU15](https://research.ncl.ac.uk/beyondleftbehindplaces/publicationsanddownloads/Working%20Paper%20-%20Regional%20Travel%20Times.pdf),” CURDS Working Paper, DOI: 10.31235/osf.io/c2bvh
 
 Velthuis, Sanne, Jeroen Royer, Mehdi Le Petit-Guerin, Nicolas Cauchi-Duval, Rachel S. Franklin, Tim Leibert, Danny MacKinnon, and Andy Pike. (2022). “[Geographically uneven structural change in EU15 regions from 1980 to 2017: a cluster analysis](https://research.ncl.ac.uk/beyondleftbehindplaces/publicationsanddownloads/Working%20Paper%20-%20Economic%20Restructuring%20Cluster%20Analysis.pdf),” CURDS Working Paper, DOI: 10.31235/osf.io/xsgf9
-
-Franklin, Rachel S. (2021). “[Introduction to the Fiftieth Anniversary Special Issue: Happy Birthday, Geographical Analysis!](https://doi.org/10.1111/gean.12270),” *Geographical Analysis*, 53(1), 3-12.
-
-Franklin, Rachel S. and Jacques Poot. (2021). “[Guest Editorial: Spatial demography in regional science](https://doi.org/10.1007/s10109-021-00354-6),” *Journal of Geographical Systems*, 23(2), 139-141.
-
-Franklin, Rachel S. (2020). “[Why We Count: Geographers and the US Decennial Census](https://u.osu.edu/geographyblog/2020/10/14/why-we-count-geographers-and-the-us-decennial-census/),” Ohio State University, Department of Geography, Census 2020 Blog Series.

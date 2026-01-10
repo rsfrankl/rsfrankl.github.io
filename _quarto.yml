@@ -13,7 +13,7 @@ website:
     search: true
     left:
       - href: posts.qmd
-        text: "blog"
+        text: "notes"
       - href: Pages/research.qmd
         text: "research"
       - href: Pages/teaching.qmd
@@ -32,7 +32,7 @@ website:
       - text: "{{< fa brands github >}}"
         href: https://github.com/rsfrankl
   page-footer:
-    left: "Rachel Franklin, copyright 2025"
+    left: "Rachel Franklin, copyright 2026"
     right: "Built with brute force {{< fa dumbbell >}} and [Quarto](https://quarto.org)"
 
 format:
