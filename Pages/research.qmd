@@ -3,7 +3,7 @@ title: "Research"
 css: /Styles/website_styles.scss
 ---
 
-I am a population geographer with research interests in the sources and impacts of demographic change as it occurs at multiple spatial scales. Demography — age structure, migration patterns, or human capital stocks, for example — is at the core of most social science, health, or environmental challenges facing us. I work at the regional and local scales to understand how best to characterize or measure the populations of places; how location and scale are related to demographic change; and how migration, especially internal, affects demographic composition. 
+I am a population geographer with research interests in the sources and impacts of demographic change as it occurs at multiple spatial scales. Demography — age structure, migration patterns, or human capital stocks, for example — is at the core of most social science, health, or environmental challenges facing us. I work at the regional and local scales to understand how best to characterize or measure the populations of places; how location and scale are related to demographic change; and how migration, especially internal, affects demographic composition.
 
 I am especially interested in how we use data and statistics to understand what sorts of people are located where, how this changes over time, and what this means for our understanding of spatial inequality.
 
@@ -22,6 +22,8 @@ Smart city technologies, particularly sensors, contribute to and reinforce socio
 Recent and ongoing projects address spatial inequality from a landscape perspective: how do we identify, locate, and measure places that are failing to thrive? I have been particularly interested in population loss or shrinkage at the local and regional scales in the United States, with research projects that have focused on the ways in which the degree of loss in any one time period may be mediated or exacerbated by the larger geographical and historical context; the demographic sources of population loss; spatial metrics for urban shrinkage; and the impacts of loss on inequality. These projects have been funded by the National Science Foundation and the National Institutes of Health in the United States. Other research focuses on the measurement of human capital stocks and the relationship between migration and human capital, including research on university student migration flows in the United States. Most recently, as part of a multinational team, funded by the ESRC in the UK, this research has expanded to include multidimensional perspectives on ["Left Behind" neighbourhoods and regions](https://research.ncl.ac.uk/beyondleftbehindplaces/).
 
 ### Recent and Currently-Funded Projects
+
+“A Spatially Explicit and Reproducible Mobility-Aware Exposure Evaluation Platform (MEEP) for Climate-Vulnerable Cities,” Urban Mobility and Climate Change (UMCC) Research Fund, Harvard University, August 2026–July 2027 (PI, $28,750, with Armita Kar and Anastasia Soukhov)
 
 “The SDR UK Imagery Data Service for Sustainability, Prosperity and Wellbeing (Imago),” U.K. Economic and Social Research Council (ESRC), September 2024–March 2029 (Deputy Director (founding Co-Director with Dani Arribas-Bel), £5,819,354)
 

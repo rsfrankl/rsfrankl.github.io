@@ -9,7 +9,7 @@ I teach mostly methods—spatial, quantitative, and demographic. I am a firm bel
 
 ### Principles and Methods of Geographic Information Systems (Brown University)
 
-This course introduces students to the basics of spatial concepts and theories, how these matter in the real world (and in research), and how to operationalize and answer research questions using spatial data and methods. The primary purpose of the course is to enable students to become enlightened producers and consumers of geographic data, analysis, and products as performed using a GIS. 
+This course introduces students to the basics of spatial concepts and theories, how these matter in the real world (and in research), and how to operationalize and answer research questions using spatial data and methods. The primary purpose of the course is to enable students to become enlightened producers and consumers of geographic data, analysis, and products as performed using a GIS.
 
 ### Mapping the City (Newcastle University)
 

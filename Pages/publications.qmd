@@ -17,7 +17,13 @@ Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). *G
 
 ### Selected Recent Publications
 
+Park, Gainbi, Eric Seymour, and Rachel Franklin. (2026). “[Characterizing the Landscape of Loss: A Spatio-Temporal Contextual Approach to Measuring U.S. County-Level Depopulation](https://doi.org/10.1080/24694452.2026.2691208),” *Annals of the American Association of Geographers*
+
 Testori, Giulia, Rachel Franklin, Pier Saraceno, Martina Pertoldi, Daniel Perea Milla Fernandez, Martijn Stut, and Lewis Dijkstra. (2026). “[Territories and demographic change - Regional patterns and policy approaches](https://data.europa.eu/doi/10.2760/4140574),” Publications Office of the European Union, Luxembourg, JRC143332
+
+Arribas-Bel, Daniel and Rachel Franklin. (2026). “[Satellite Salvation? Why satellite imagery is (part of) the answer to our urban data needs](https://doi.org/10.1177/23998083261456945).” *Environment and Planning B: Urban Analytics and City Science*
+
+Liu, Lingbo, Tobias Kötter, Rachel Franklin, and Fahui Wang. (2026). “[Open Visual Programming Extensions in KNIME for Reproducible Earth Observation Analytics: Integrating Google Earth Engine with Geospatial Analytics](https://doi.org/10.1016/j.envsoft.2026.107013),” *Environmental Modelling & Software*
 
 Franklin, Rachel, Devika Jain, and Zifu Wang. (2026). “[Old, new, borrowed and BLUE: the twenty-first century spatial economic analysis toolkit](https://doi.org/10.1080/17421772.2026.2619184),” *Spatial Economic Analysis*
 

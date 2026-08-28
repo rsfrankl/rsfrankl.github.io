@@ -3,17 +3,19 @@ title: "Talks"
 css: /Styles/website_styles.scss
 ---
 
-See [CV](/media/CV_Franklin_CURRENT.pdf) for exhaustive list.
+This is a curated selection...see [CV](/media/CV_Franklin_CURRENT.pdf) for the exhaustive, definitive list.
 
 ### Invited Keynotes and Lectures
 
-"Old, New, Borrowed and BLUE?," Keynote, 2025 Regional Studies Association (RSA) Regional Futures Conference, London, November 13, 2025
+“[The Quest for Mappiness: Creating Communities of Spatial Practice](https://www.rachelfranklin.org/Talks/Amherst/),” Keynote, “Oh, Mappy Day,” University of Massachusetts, Amherst, April 3, 2026
 
-“The Tortured Geographers Department,” 2025 Malcom L. Comeaux Lecture, School of Geographical Sciences and Urban Planning, Arizona State University, November 7, 2025
+"[Old, New, Borrowed and BLUE?](https://www.rachelfranklin.org/Talks/RSA_London/)," Keynote, 2025 Regional Studies Association (RSA) Regional Futures Conference, London, November 13, 2025
 
-“Spatial Is Special,” Distinguished Getis Lecture in Spatial Analysis, Department of Geography, San Diego State University, California, November 22, 2024
+“[The Tortured Geographers Department](https://www.rachelfranklin.org/Talks/ASU/),” 2025 Malcom L. Comeaux Lecture, School of Geographical Sciences and Urban Planning, Arizona State University, November 7, 2025
 
-“21st Century Geographical Methods for Timeless Spatial Inequality Challenges,” Sociotechnical Foundations of GeoAI and Spatial Data Science Workshop, Vienna, Austria, October 26–27, 2024
+“[Spatial Is Special](https://www.rachelfranklin.org/Talks/SDSU_talk/),” Distinguished Getis Lecture in Spatial Analysis, Department of Geography, San Diego State University, California, November 22, 2024
+
+“[21st Century Geographical Methods for Timeless Spatial Inequality Challenges](https://www.rachelfranklin.org/Talks/Vienna/),” Sociotechnical Foundations of GeoAI and Spatial Data Science Workshop, Vienna, Austria, October 26–27, 2024
 
 “The Answer to the Ultimate (Demographic) Question of Life, the Universe, and Everything,” Keynote, IGU Applied Population Geography Research Workshop, University of the Aegean, Lesvos, Greece, September 19, 2023
 
@@ -25,43 +27,43 @@ See [CV](/media/CV_Franklin_CURRENT.pdf) for exhaustive list.
 
 “Sensing Inequality: Smart Cities, Sensor Deserts, and Equitable Decision-Making,” Keynote Address, The 2021 European Colloquium on Theoretical and Quantitative Geography (ECTQG), Manchester, November 5, 2021 (virtual)
 
-"Of Decisions and Deserts: Helping Cities Be Smart, Just, and Good,” Keynote Address, 24th Association of Geographic Information Laboratories in Europe (AGILE) Conference, June 11, 2021 (virtual)
-
-“Migration, Population Loss, and the Smaller Picture,” Keynote Address, International and Internal Migration: Challenges and Opportunities in Europe Workshop, Gran Sasso Science Institute (GSSI), L’Aquila, Italy, January 17, 2020
-
 “Inequality and the Smart City,” Keynote Address, GeoComputation 2019, Queenstown, New Zealand, September 20, 2019
 
 “I Come to Bury Growth, Not to Praise It,” Keynote Address, Regional Studies Association Annual Conference, Santiago de Compostela, Spain, June 5, 2019
 
 ### Invited Presentations and Panels
 
-“Mind the Temperatures: The challenge of estimating present and future heat exposure on the London Tube,” Department of Geography, The Ohio State University, October 24, 2025
+“[Metaphors for 2026: Planning for Metropolitan Change](https://www.rachelfranklin.org/Talks/AMPO/),” Socioeconomic Forecasting Webinar—Quarter 2, Association of Metropolitan Planning Organizations (AMPO), June 23, 2026.
 
-“Data, Data, Data,” From Global to Local: Policy Frameworks for Digital Governance in Cities Panel, Land Policy Conference: Responsive and Equitable Digitalization in Land Policy, Lincoln Institute of Land Policy, May 23, 2025
+“[Left Behind Places: By the Numbers](https://www.rachelfranklin.org/Talks/Zurich_2026/),” Approaching (Left-Behind-)Places through Geography and Art, Zürich, Switzerland, May 26, 2026.
 
-“Why Digital Twins Matter (Do They?),” Engaging the Next Generation: Why Do Digital Twins Matter?, Center for Geographic Analysis (CGA) Conference, Harvard University, May 23, 2025
+“[Pixels Aren’t Places](https://www.rachelfranklin.org/Talks/GSSI_SPACERAISE/),” SPACERAISE International Summer School for Space Studies and Interdisciplinary Applications, L’Aquila, Italy, May 20, 2026.
 
-“Rethinking GIS Education in an Age of Disruptions,” Northeast Higher Ed GIS Facilitators Meet Up,” Boston University, May 20, 2025
+“[Spatial Inequality and the Smart City](https://www.rachelfranklin.org/Talks/Urban_Data_Working_Group/),” Urban Data Working Group/Equity and Access in Algorithms Mechanisms and Optimization (EAAMO) Seminar Series (online), April 27, 2026.
 
-“AI and Data Innovations for Liveable Cities,” AI and Data Innovation for Sustainability and Infrastructure Conference, Singapore, April 2, 2025
+“[Regional Science for Babies](https://www.rachelfranklin.org/Talks/WRSA_2026/),” Discussant remarks, Presidential Address (Alessandra Faggian), 65th Annual Meeting of the Western Regional Science Association, Santa Fe, NM, February 2026.
 
-“Smart but Unequal?: Sensor Infrastructure in the Smart City,” City Seminar Series, University of Cambridge, February 25, 2025
+“[A (spatial) album with 8 tidy tracks](https://www.rachelfranklin.org/Talks/Esri/),” Esri, Redlands, California, February 17, 2026
 
-“Five Red Herrings: The Role of Data, Data Science, and AI in Population Health Research,” Population Health Sciences Institute (PHSI) Christmas Research Event, Newcastle University, December 11, 2024
+“[Mind the Temperatures: The challenge of estimating present and future heat exposure on the London Tube](https://www.rachelfranklin.org/Talks/OSU/),” Department of Geography, The Ohio State University, October 24, 2025
+
+“[Data, Data, Data](https://www.rachelfranklin.org/Talks/Lincoln_2025/),” From Global to Local: Policy Frameworks for Digital Governance in Cities Panel, Land Policy Conference: Responsive and Equitable Digitalization in Land Policy, Lincoln Institute of Land Policy, May 23, 2025
+
+“[Rethinking GIS Education in an Age of Disruptions](https://www.rachelfranklin.org/Talks/NE_GIS_2025/),” Northeast Higher Ed GIS Facilitators Meet Up,” Boston University, May 20, 2025
+
+“[AI and Data Innovations for Liveable Cities](https://www.rachelfranklin.org/Talks/Singapore/),” AI and Data Innovation for Sustainability and Infrastructure Conference, Singapore, April 2, 2025
+
+“[Smart but Unequal?: Sensor Infrastructure in the Smart City](https://www.rachelfranklin.org/Talks/Cambridge/),” City Seminar Series, University of Cambridge, February 25, 2025
+
+“[Five Red Herrings: The Role of Data, Data Science, and AI in Population Health Research](https://www.rachelfranklin.org/Talks/Herrings/),” Population Health Sciences Institute (PHSI) Christmas Research Event, Newcastle University, December 11, 2024
 
 “Mind the Gap: Estimating present and future heat exposure on the London Tube,” METRANS, Sol Price School of Public Policy, University of Southern California, September 25, 2024
 
-“Don’t Panic!,” 2024 Southern California Demographic Workshop, Southern California Association of Governments (SCAG), Los Angeles, California, September 24, 2024
-
-“Sequence Analysis and Clustering Methods for Identifying Left Behind Places,” GIScience Group, Department of Geography, University of Zurich, February 7, 2024
+“[Don’t Panic!](https://www.rachelfranklin.org/Talks/SCAG/#/),” 2024 Southern California Demographic Workshop, Southern California Association of Governments (SCAG), Los Angeles, California, September 24, 2024
 
 “Spatial Inequality and the Smart City,” Bartlett School of Planning Public Lecture, UCL, London, January 25, 2024
 
-“Data, Data Science, and the Persistent Challenge of Spatial Inequality,” Darlington Economic Campus, January 18, 2024
-
-"[Disruptions, Engagement, and ~~GIScience~~ Solutions](https://rpubs.com/Rachel_Franklin/disruptions)," Spatial Data Science in an Age of Scientific Disruption Workshop, Santa Barbara, California, December 7–8, 2023
-
-“Lost in translation? Connecting the conceptual and methodological to locate the ‘Left Behind’,” CIRCLE, Lund University, October 4, 2023
+"[Disruptions, Engagement, and ~~GIScience~~ Solutions](https://www.rachelfranklin.org/Talks/UCSB_Disruptions/)," Spatial Data Science in an Age of Scientific Disruption Workshop, Santa Barbara, California, December 7–8, 2023
 
 “Thinking about ‘progress’ in quantitative methods,” Department of Human Geography, Lund University, October 4, 2023
 
@@ -71,16 +73,12 @@ See [CV](/media/CV_Franklin_CURRENT.pdf) for exhaustive list.
 
 “Future Directions for Urban Analytics and City Science,” Panel, Annual Meeting of the Association of American Geographers, Denver, CO, March 23–27, 2023
 
-“Deciding Who Counts in the Smart City: Sensor coverage, networks and the responsive city,” Amsterdam Institute for Advanced Metropolitan Solutions (AMS), February 1, 2023
-
-“Lost in Transition? Connecting the conceptual and methodological to locate the ‘Left Behind’,” Development Economics Group, Wageningen University and Research, January 31, 2023
-
-“Lost in Translation? Connecting the conceptual and methodological to locate the ‘Left Behind’,” Urban Big Data Centre (UBDC), University of Glasgow, January 24, 2023
-
 ### Recent Conference Presentations
+
+“[Good Data Is Hard to Find: Why this matters and what to do about it](https://www.rachelfranklin.org/Talks/AAG_2026/),” Annual Meeting of the Association of American Geographers, San Francisco, CA, March 17–21, 2026.
+
+“[Why Digital Twins Matter (Do They?)](https://www.rachelfranklin.org/Talks/CGA_digital_twins/),” Engaging the Next Generation: Why Do Digital Twins Matter?, Center for Geographic Analysis (CGA) Conference, Harvard University, May 23, 2025
 
 “Landscape of Loss: A Spatiotemporal Contextual Approach to Measuring U.S. County-Level Depopulation,” (co-authored with Gainbi Park and Eric Seymour), Population Association of America (PAA) Annual Meeting, Washington, DC, April 10–13, 2025.
 
 “Lost in transition? Trajectories of regional ‘left-behindness’ in the EU15 from 1982 to 2017,” (co-authored with Mehdi Le Petit-Guerin, Sanne Velthuis, Jeroen Royer, Nicolas Cauchi-Duval, Tim Leibert, Danny MacKinnon, and Andy Pike), Annual Meeting of the Association of American Geographers, Denver, CO, March 23–27, 2023
-
-“Get Smart: Helping cities be intelligent about sensor placement,” Alan Turing Institute, AIUK Smart Cities Session, September 28, 2020 (virtual)

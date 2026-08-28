@@ -9,7 +9,7 @@
 <link>https://www.rsfrankl.github.io/posts/posts.html</link>
 <atom:link href="https://www.rsfrankl.github.io/posts/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Rachel Franklin--Practicing Geographer</description>
-<generator>quarto-1.8.26</generator>
+<generator>quarto-1.10.18</generator>
 <lastBuildDate>Sun, 26 Jan 2025 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Hello (2025) World</title>
@@ -35,8 +35,8 @@
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-franklin2025" class="csl-entry quarto-appendix-citeas">
-Franklin, Rachel. 2025. <span>“Hello (2025) World.”</span> January 26,
-2025. <a href="https://rsfrankl.github.io/posts/helloworld/">https://rsfrankl.github.io/posts/helloworld/</a>.
+Franklin, Rachel. 2025. <span>“Hello (2025) World.”</span> January 26.
+<a href="https://rsfrankl.github.io/posts/helloworld/">https://rsfrankl.github.io/posts/helloworld/</a>.
 </div></div></section></div> ]]></description>
   <guid>https://www.rsfrankl.github.io/posts/posts/helloworld/</guid>
   <pubDate>Sun, 26 Jan 2025 05:00:00 GMT</pubDate>
