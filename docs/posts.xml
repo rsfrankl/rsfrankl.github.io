@@ -10,7 +10,43 @@
 <atom:link href="https://www.rsfrankl.github.io/posts/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Rachel Franklin--Practicing Geographer</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 26 Jan 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Run every street in Cambridge, Massachusetts (robot-assisted version)</title>
+  <dc:creator>Rachel Franklin</dc:creator>
+  <link>https://www.rsfrankl.github.io/posts/posts/streets/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://www.rsfrankl.github.io/posts/posts/streets/cambridge_run_every_street.gif" class="img-fluid"></p>
+<p>It started with me running every street in Cambridge, Massachusetts. It ended with me writing about it <a href="https://rachelfranklin.substack.com/p/geography-antics?r=3xp53">here</a>, on my SubStack (a habit I meant to kick in favor of this outlet, but can’t seem to).</p>
+<p>In between, when I told Dani Arribas-Bel about my accomplishment, he said, you could get Claude to make a nice gif of all your runs. And he was right. I handed a folder of all the .gpx files of my runs, as well as the Cambridge streets layer I was working from, and it didn’t take it long at all to make something very visually appealing that looked exactly as if it had been made by Claude.</p>
+<p>Not much else to say, except that, by my calculations, there are about 156 miles of streets in Cambridge.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{franklin2026,
+  author = {Franklin, Rachel},
+  title = {Run Every Street in {Cambridge,} {Massachusetts}
+    (Robot-Assisted Version)},
+  date = {2026-09-01},
+  url = {https://rsfrankl.github.io/posts/helloworld/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-franklin2026" class="csl-entry quarto-appendix-citeas">
+Franklin, Rachel. 2026. <span>“Run Every Street in Cambridge,
+Massachusetts (Robot-Assisted Version).”</span> September 1. <a href="https://rsfrankl.github.io/posts/helloworld/">https://rsfrankl.github.io/posts/helloworld/</a>.
+</div></div></section></div> ]]></description>
+  <category>running</category>
+  <category>mapping</category>
+  <category>Claude</category>
+  <guid>https://www.rsfrankl.github.io/posts/posts/streets/</guid>
+  <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://www.rsfrankl.github.io/posts/posts/streets/run_every_street.png" medium="image" type="image/png" height="96" width="144"/>
+</item>
 <item>
   <title>Hello (2025) World</title>
   <dc:creator>Rachel Franklin</dc:creator>
@@ -38,6 +74,8 @@
 Franklin, Rachel. 2025. <span>“Hello (2025) World.”</span> January 26.
 <a href="https://rsfrankl.github.io/posts/helloworld/">https://rsfrankl.github.io/posts/helloworld/</a>.
 </div></div></section></div> ]]></description>
+  <category>blog</category>
+  <category>SubStack</category>
   <guid>https://www.rsfrankl.github.io/posts/posts/helloworld/</guid>
   <pubDate>Sun, 26 Jan 2025 05:00:00 GMT</pubDate>
   <media:content url="https://www.rsfrankl.github.io/posts/posts/helloworld/practicing_geographer2.jpg" medium="image" type="image/jpeg"/>

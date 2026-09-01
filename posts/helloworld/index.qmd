@@ -2,7 +2,7 @@
 title: "Hello (2025) World"
 description: "New year, new website, new blog home"
 date: 26 January 2025
-categories: []
+categories: [blog, SubStack]
 citation: 
   url: https://rsfrankl.github.io/posts/helloworld/ 
 image: practicing_geographer2.jpg
