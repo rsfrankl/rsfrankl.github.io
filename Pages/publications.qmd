@@ -17,6 +17,10 @@ Ballas, Dimitris, Graham Clarke, Rachel S. Franklin, and Andy Newing. (2017). *G
 
 ### Selected Recent Publications
 
+Pike, Andy, Maryame Amarouche, Vincent Béal, Nicolas Cauchi-Duval, Rachel Franklin, Nadir Kinossian, Thilo Lang, Tim Leibert, Danny MacKinnon, Nora Nafaa, Max Rousseau, Jeroen Royer, Serhii Svynarets, John Tomaney, Sanne Velthuis. (In press). “[Foundational economy, geography, and ‘left behind places’](https://doi.org/10.1080/00343404.2026.2739242),” *Regional Studies*
+
+Zhang, Jielu, Xiao Huang, Gengchen Mai, Bing Zhou, Yuhao Jia, Qifan Wu, Rachel Franklin. (In press). “From Large Language Model to Agentic Systems: A Systematic Review of Generative AI in GIScience,” *Transactions in GIS*
+
 Park, Gainbi, Eric Seymour, and Rachel Franklin. (2026). “[Characterizing the Landscape of Loss: A Spatio-Temporal Contextual Approach to Measuring U.S. County-Level Depopulation](https://doi.org/10.1080/24694452.2026.2691208),” *Annals of the American Association of Geographers*
 
 Testori, Giulia, Rachel Franklin, Pier Saraceno, Martina Pertoldi, Daniel Perea Milla Fernandez, Martijn Stut, and Lewis Dijkstra. (2026). “[Territories and demographic change - Regional patterns and policy approaches](https://data.europa.eu/doi/10.2760/4140574),” Publications Office of the European Union, Luxembourg, JRC143332

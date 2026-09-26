@@ -10,7 +10,7 @@
 <atom:link href="https://www.rsfrankl.github.io/posts/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Rachel Franklin--Practicing Geographer</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Tue, 01 Sep 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Run every street in Cambridge, Massachusetts (robot-assisted version)</title>
   <dc:creator>Rachel Franklin</dc:creator>
@@ -44,7 +44,7 @@ Massachusetts (Robot-Assisted Version).”</span> September 1. <a href="https://
   <category>mapping</category>
   <category>Claude</category>
   <guid>https://www.rsfrankl.github.io/posts/posts/streets/</guid>
-  <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 31 Aug 2026 22:00:00 GMT</pubDate>
   <media:content url="https://www.rsfrankl.github.io/posts/posts/streets/run_every_street.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 <item>
@@ -77,7 +77,7 @@ Franklin, Rachel. 2025. <span>“Hello (2025) World.”</span> January 26.
   <category>blog</category>
   <category>SubStack</category>
   <guid>https://www.rsfrankl.github.io/posts/posts/helloworld/</guid>
-  <pubDate>Sun, 26 Jan 2025 05:00:00 GMT</pubDate>
+  <pubDate>Sat, 25 Jan 2025 23:00:00 GMT</pubDate>
   <media:content url="https://www.rsfrankl.github.io/posts/posts/helloworld/practicing_geographer2.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
